@@ -1,0 +1,258 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Spacing\n"
+"POT-Creation-Date: 2016-12-24 14:12+0100\n"
+"PO-Revision-Date: 2016-12-24 14:13+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: spacing/functions/content-spacing.php:10
+msgid "Content"
+msgstr "Contenuto"
+
+#: spacing/functions/content-spacing.php:29
+msgid "Content Padding"
+msgstr "Spaziatura Contenuto"
+
+#: spacing/functions/content-spacing.php:52
+#: spacing/functions/footer-spacing.php:52
+#: spacing/functions/footer-spacing.php:163
+#: spacing/functions/header-spacing.php:51
+#: spacing/functions/sidebar-spacing.php:52
+msgid "Top"
+msgstr "Sopra"
+
+#: spacing/functions/content-spacing.php:76
+#: spacing/functions/footer-spacing.php:76
+#: spacing/functions/footer-spacing.php:187
+#: spacing/functions/header-spacing.php:75
+#: spacing/functions/sidebar-spacing.php:76
+msgid "Right"
+msgstr "Destra"
+
+#: spacing/functions/content-spacing.php:100
+#: spacing/functions/footer-spacing.php:100
+#: spacing/functions/footer-spacing.php:211
+#: spacing/functions/header-spacing.php:99
+#: spacing/functions/sidebar-spacing.php:100
+msgid "Bottom"
+msgstr "In Basso"
+
+#: spacing/functions/content-spacing.php:124
+#: spacing/functions/footer-spacing.php:124
+#: spacing/functions/footer-spacing.php:235
+#: spacing/functions/header-spacing.php:123
+#: spacing/functions/sidebar-spacing.php:124
+msgid "Left"
+msgstr "Sinistra"
+
+#: spacing/functions/content-spacing.php:147
+msgid "Separating Space"
+msgstr "Spazio di separazione"
+
+#: spacing/functions/content-spacing.php:151
+msgid ""
+"The spacing between elements when \"Content Layout\" is set to \"Separate "
+"Containers\"."
+msgstr ""
+"La spaziatura tra gli elementi quando l'opzione \"Contenitori Separati\" è "
+"selezionata."
+
+#: spacing/functions/footer-spacing.php:10
+msgid "Footer"
+msgstr "Piè di pagina (footer)"
+
+#: spacing/functions/footer-spacing.php:29
+msgid "Footer Widget Area Padding"
+msgstr "Area Spaziatura Widget Footer"
+
+#: spacing/functions/footer-spacing.php:140
+msgid "Footer Padding"
+msgstr "Spaziatura Footer"
+
+#: spacing/functions/functions.php:63
+msgid "Spacing"
+msgstr "Spaziatura"
+
+#: spacing/functions/functions.php:64
+msgid "Change the spacing for various elements using pixels."
+msgstr "Modifica la spaziatura dei vari elementi utilizzando pixels"
+
+#: spacing/functions/header-spacing.php:9
+msgid "Header"
+msgstr "Testata"
+
+#: spacing/functions/header-spacing.php:28
+msgid "Header Padding"
+msgstr "Spaziatura Header"
+
+#: spacing/functions/ie.php:18
+msgid "Warning: This will delete your settings."
+msgstr "Attenzione: Questo cancellerà le tue impostazioni."
+
+#: spacing/functions/ie.php:20
+msgid "Delete Spacing Customizer Settings"
+msgstr "Eliminare le impostazioni dello \"Spacing Customizer\""
+
+#: spacing/functions/ie.php:57
+msgid "Export Spacing Customizer Settings"
+msgstr "Esportare le impostazioni dello \"Spacing Customizer\""
+
+#: spacing/functions/navigation-spacing.php:10
+msgid "Primary Navigation"
+msgstr "Navigazione Principale"
+
+#: spacing/functions/navigation-spacing.php:29
+msgid "Primary Menu Items"
+msgstr "Voci del menu principale"
+
+#: spacing/functions/navigation-spacing.php:51
+msgid "Left/Right Spacing"
+msgstr "Spaziatura Destra/Sinistra"
+
+#: spacing/functions/navigation-spacing.php:74
+msgid "Height"
+msgstr "Altezza"
+
+#: spacing/functions/navigation-spacing.php:97
+msgid "Sub-Menu Item Height"
+msgstr "Altezza Voci Sotto-Menu"
+
+#: spacing/functions/navigation-spacing.php:98
+msgid "The top and bottom spacing of sub-menu items."
+msgstr "La spaziatura superiore e inferiore delle voci di sotto-menu"
+
+#: spacing/functions/sidebar-spacing.php:10
+msgid "Sidebars"
+msgstr "Sidebar"
+
+#: spacing/functions/sidebar-spacing.php:29
+msgid "Widget Padding"
+msgstr "Spaziatura Widget"
+
+#: spacing/functions/sidebar-spacing.php:154
+msgid "Left Sidebar Width"
+msgstr "Larghezza Sidebar Sinistra"
+
+#: spacing/functions/sidebar-spacing.php:157
+#: spacing/functions/sidebar-spacing.php:195
+msgid "15%"
+msgstr "15%"
+
+#: spacing/functions/sidebar-spacing.php:158
+#: spacing/functions/sidebar-spacing.php:196
+msgid "20%"
+msgstr "20%"
+
+#: spacing/functions/sidebar-spacing.php:159
+#: spacing/functions/sidebar-spacing.php:197
+msgid "25%"
+msgstr "25%"
+
+#: spacing/functions/sidebar-spacing.php:160
+#: spacing/functions/sidebar-spacing.php:198
+msgid "30%"
+msgstr "30%"
+
+#: spacing/functions/sidebar-spacing.php:161
+#: spacing/functions/sidebar-spacing.php:199
+msgid "35%"
+msgstr "35%"
+
+#: spacing/functions/sidebar-spacing.php:162
+#: spacing/functions/sidebar-spacing.php:200
+msgid "40%"
+msgstr "40%"
+
+#: spacing/functions/sidebar-spacing.php:163
+#: spacing/functions/sidebar-spacing.php:201
+msgid "45%"
+msgstr "45%"
+
+#: spacing/functions/sidebar-spacing.php:164
+#: spacing/functions/sidebar-spacing.php:202
+msgid "50%"
+msgstr "50%"
+
+#: spacing/functions/sidebar-spacing.php:192
+msgid "Right Sidebar Width"
+msgstr "Larghezza Sidebar Destra"
+
+#~ msgid "Element Spacing"
+#~ msgstr "Spaziatura degli elementi"
+
+#~ msgid "Sidebar Widgets"
+#~ msgstr "Widgets della barra laterale"
+
+#~ msgid "Footer Widget Area"
+#~ msgstr "Widgets del piè di pagina (footer)"
+
+#~ msgid "These options control the size of your menu items."
+#~ msgstr "Questo controlla la dimensione delle vici di menu"
+
+#~ msgid "Sub-menu Item Height"
+#~ msgstr "Altezza dell'elemento sotto-menu"
+
+#~ msgid "Sidebar Widths"
+#~ msgstr "Larghezze di Sidebar"
+
+#~ msgid "Left Sidebar"
+#~ msgstr "Barra laterale sinistra"
+
+#~ msgid "Right Sidebar"
+#~ msgstr "Barra Laterale Destra"
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+#~ msgstr ""
+#~ "C'è una nuova versione disponibile di %1$s . <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">Vedi i dettagli della  versione %3$s </a>."
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+#~ "\">update now</a>."
+#~ msgstr ""
+#~ "C’è una nuova versione di %1$s disponibile. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">Vedi i dettagli della versione %3$s </a> o <a "
+#~ "href=“%4$s”>aggiorna ora</a>."
+
+#~ msgid "You do not have permission to install plugin updates"
+#~ msgstr "Non hai il permesso di installare gli aggiornamenti dei plugin"
+
+#~ msgid "Error"
+#~ msgstr "Errore"
+
+#~ msgid "License failed."
+#~ msgstr "Licenza non riuscita."
+
+#~ msgid "License activated."
+#~ msgstr "Licenza attivata."
+
+#~ msgid "License deactivated."
+#~ msgstr "Licenza disattivata."
+
+#~ msgid "Updates %s"
+#~ msgstr "Aggiornamenti %s"
+
+#~ msgid "Help"
+#~ msgstr "Aiuto"
+
+#~ msgid "License Key"
+#~ msgstr "Chiave Licenza"
+
+#~ msgid "Update"
+#~ msgstr "Aggiorna"

@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Typography\n"
+"POT-Creation-Date: 2016-12-24 14:14+0100\n"
+"PO-Revision-Date: 2016-12-24 14:14+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: typography/functions/customizer/control.php:27
+msgid "Default fonts"
+msgstr "Carattere standard"
+
+#: typography/functions/customizer/control.php:28
+msgid "Google fonts"
+msgstr "Google Font"
+
+#: typography/functions/customizer/control.php:29
+msgid "Font family"
+msgstr "Famiglia carattere"
+
+#: typography/functions/functions.php:93
+msgid "Typography"
+msgstr "Caratteri"
+
+#: typography/functions/functions.php:101
+#: typography/functions/functions.php:124
+msgid "Body"
+msgstr "Body"
+
+#: typography/functions/functions.php:187
+#: typography/functions/functions.php:354
+#: typography/functions/functions.php:510
+#: typography/functions/functions.php:677
+#: typography/functions/functions.php:772
+#: typography/functions/functions.php:790
+#: typography/functions/functions.php:808
+#: typography/functions/functions.php:1073
+msgid "Font weight"
+msgstr "Corpo Carattere "
+
+#: typography/functions/functions.php:224
+#: typography/functions/functions.php:391
+#: typography/functions/functions.php:547
+#: typography/functions/functions.php:714
+#: typography/functions/functions.php:776
+#: typography/functions/functions.php:794
+#: typography/functions/functions.php:812
+#: typography/functions/functions.php:1110
+msgid "Text transform"
+msgstr "Trasformazione del testo"
+
+#: typography/functions/functions.php:254
+#: typography/functions/functions.php:421
+#: typography/functions/functions.php:577
+#: typography/functions/functions.php:744
+#: typography/functions/functions.php:1140
+msgid "Font size"
+msgstr "Dimensione caratteri"
+
+#: typography/functions/functions.php:266
+msgid "Header"
+msgstr "Testata"
+
+#: typography/functions/functions.php:289
+msgid "Site title"
+msgstr "Titolo del sito"
+
+#: typography/functions/functions.php:445
+msgid "Site tagline"
+msgstr "Slogan del sito"
+
+#: typography/functions/functions.php:589
+msgid "Primary Navigation"
+msgstr "Navigazione Principale"
+
+#: typography/functions/functions.php:612
+msgid "Site navigation"
+msgstr "Navigazione del sito"
+
+#: typography/functions/functions.php:758
+msgid "Content"
+msgstr "Contenuto"
+
+#: typography/functions/functions.php:768
+msgid "Heading 1 (H1)"
+msgstr "Titolo 1 (H1)"
+
+#: typography/functions/functions.php:780
+#: typography/functions/functions.php:798
+#: typography/functions/functions.php:816
+msgid "Font-size"
+msgstr "Dimensione caratteri"
+
+#: typography/functions/functions.php:786
+msgid "Heading 2 (H2)"
+msgstr "Titolo H2"
+
+#: typography/functions/functions.php:804
+msgid "Heading 3 (H3)"
+msgstr "Titoli H3"
+
+#: typography/functions/functions.php:985
+msgid "Widgets"
+msgstr "Widget"
+
+#: typography/functions/functions.php:1008
+msgid "Widget titles"
+msgstr "Titoli dei widget"
+
+#: typography/functions/functions.php:1164
+msgid "Content font size"
+msgstr "Dimensione carattere Contenuto (px)"
+
+#: typography/functions/functions.php:1178
+msgid "Footer"
+msgstr "Footer"
+
+#: typography/functions/functions.php:1201
+msgid "Footer font size"
+msgstr "Dimensione carattere piè di pagina (footer)"
+
+#: typography/functions/functions.php:1215
+msgid "Mobile"
+msgstr "Mobile"
+
+#: typography/functions/functions.php:1237
+msgid "Site title font size"
+msgstr "Dimensione carattere del titolo"
+
+#: typography/functions/functions.php:1260
+msgid "H1 font size"
+msgstr "Dimensione font H1"
+
+#: typography/functions/functions.php:1283
+msgid "H2 font size"
+msgstr "Dimensione font H2"
+
+#~ msgid "Body Typography"
+#~ msgstr "Carattere del Body"
+
+#~ msgid "Header Typography"
+#~ msgstr "Caratteri della testata"
+
+#~ msgid "Navigation Typography"
+#~ msgstr "Carattere della navigazione"
+
+#~ msgid "Content Typography"
+#~ msgstr "Carattere del contenuto"
+
+#~ msgid "Widget Typography"
+#~ msgstr "Carattere dei widget"
+
+#~ msgid "Footer Typography"
+#~ msgstr "Carattere del piè di pagina (footer)"
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+#~ msgstr ""
+#~ "C'è una nuova versione disponibile di %1$s . <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">Vedi i dettagli della  versione %3$s </a>."
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+#~ "\">update now</a>."
+#~ msgstr ""
+#~ "C’è una nuova versione di %1$s disponibile. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">Vedi i dettagli della versione %3$s </a> o <a "
+#~ "href=“%4$s”>aggiorna ora</a>."
+
+#~ msgid "You do not have permission to install plugin updates"
+#~ msgstr "Non hai il permesso di installare gli aggiornamenti dei plugin"
+
+#~ msgid "Error"
+#~ msgstr "Errore"
+
+#~ msgid "License failed."
+#~ msgstr "Licenza non riuscita."
+
+#~ msgid "License activated."
+#~ msgstr "Licenza attivata."
+
+#~ msgid "License deactivated."
+#~ msgstr "Licenza disattivata."
+
+#~ msgid "Updates %s"
+#~ msgstr "Aggiornamenti %s"
+
+#~ msgid "Help"
+#~ msgstr "Aiuto"
+
+#~ msgid "License Key"
+#~ msgstr "Chiave Licenza"
+
+#~ msgid "Update"
+#~ msgstr "Aggiorna"

@@ -1,0 +1,75 @@
+#social-icons {
+  text-align: center;
+
+  //Style default effect
+  .social-style {
+    display: inline-block;
+    border: solid 1px @accent;
+    color: @onaccent;
+    width: 50px;
+    height: 50px;
+    padding-top: 12px;
+    text-align: center;
+    font-size: 18px;
+    .transition(0.4s all ease);
+    &:before {
+      border-radius: 0%;
+      background: @onaccent;
+      color: @accent;
+    }
+    &:hover {
+      color: @onaccent;
+    }
+  }
+  .hvr-bounce-to-bottom{
+    &:before{
+      background: lighten(@onaccent, 10%) !important;
+    }
+  }
+  .hvr-ripple-out{
+    margin: 10px 0px;
+    background: lighten(@accent, 20%);
+    border-radius: 5px;
+    color: @onaccent;
+    &:before {
+      border-radius: 5px;
+      border-color: lighten(@accent, 20%);
+    }
+
+    &:before{
+      background: none;
+    }
+  }
+  .hvr-bubble-float-bottom{
+    margin: 10px 0px;
+    &:before{
+      background: none;
+      opacity: 0;
+      .transition(0.4s all ease);
+      border-color: darken(@onaccent, 10%) transparent transparent;
+    }
+    &:hover {
+      &:before {
+        opacity: 1;
+      }
+    }
+  }
+  .hvr-bounce-in{
+    margin: 10px 0px;
+    &:hover{
+      background: @content;
+    }
+  }
+  .hvr-rectangle-out{
+    margin: 10px 0px;
+    background: lighten(@accent, 20%);
+    border-radius: 5px;
+    &:before {
+      border-radius: 5px;
+    }
+    &:hover{
+      color: @accent;
+    }
+  }
+}
+

@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GP Premium\n"
+"POT-Creation-Date: 2016-12-23 03:36-0200\n"
+"PO-Revision-Date: 2016-12-23 03:42-0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ../inc\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Last-Translator: Jorge Araújo <artesetedigital@gmail.com>\n"
+"Language: pt_BR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: EDD_SL_Plugin_Updater.php:196
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr "Existe uma nova versão de %1$s disponível. %2$sVer %3$s detalhes%4$s."
+
+#: EDD_SL_Plugin_Updater.php:204
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+"Existe uma nova versão de %1$s disponível. %2$sVer %3$s detalhes%4$s ou "
+"%5$satualizar agora%6$s."
+
+#: EDD_SL_Plugin_Updater.php:358
+msgid "You do not have permission to install plugin updates"
+msgstr "Você não possui permissão para instalar atualizações do plugin"
+
+#: EDD_SL_Plugin_Updater.php:358
+msgid "Error"
+msgstr "Erro"
+
+#: activation.php:13
+msgid "Add-on deactivated."
+msgstr "Add-on desativado."
+
+#: activation.php:17
+msgid "Add-on activated."
+msgstr "Add-on ativado."
+
+#: activation.php:58
+msgid "GP Premium"
+msgstr "GP Premium"
+
+#: activation.php:66
+msgid "Bulk Actions"
+msgstr "Ações em Massa"
+
+#: activation.php:67 activation.php:101
+msgid "Activate"
+msgstr "Ativar"
+
+#: activation.php:68 activation.php:88
+msgid "Deactivate"
+msgstr "Desativar"
+
+#: activation.php:71
+msgid "Apply"
+msgstr "Aplicar"
+
+#: activation.php:427
+msgid "Enter valid license key for automatic updates."
+msgstr "Informe uma licença válida para atualizações automáticas."
+
+#: verify.php:88
+msgid "License deactivated."
+msgstr "Licença desativada."
+
+#: verify.php:92
+msgid "License activated."
+msgstr "Licença ativada."
+
+#: verify.php:125
+#, php-format
+msgid "Updates %s"
+msgstr "Atualizações %s"
+
+#: verify.php:125
+msgid "Help"
+msgstr "Ajuda"
+
+#: verify.php:150
+msgid "License Key"
+msgstr "Licença"
+
+#: verify.php:155
+msgid "Update"
+msgstr "Atualizar"
+
+#: verify.php:244
+#, php-format
+msgid "Your license key expired on %s."
+msgstr "Sua licença expira em %s."
+
+#: verify.php:251
+msgid "Your license key has been disabled."
+msgstr "Sua licença foi desabilitada."
+
+#: verify.php:256
+msgid "Invalid license."
+msgstr "Licença inválida."
+
+#: verify.php:262
+msgid "Your license is not active for this URL."
+msgstr "Sua licença não está ativa para essa URL."
+
+#: verify.php:267
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr "Aparentemente essa é uma licença inválida para %s."
+
+#: verify.php:272
+msgid "Your license key has reached its activation limit."
+msgstr "Sua licença atingiu o limite de ativações."
+
+#: verify.php:277
+msgid "An error occurred, please try again."
+msgstr "Ocorreu um erro, tente novamente."

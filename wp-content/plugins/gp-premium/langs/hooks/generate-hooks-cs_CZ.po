@@ -1,0 +1,215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Hooks\n"
+"POT-Creation-Date: 2017-01-08 11:03+0100\n"
+"PO-Revision-Date: 2017-01-08 11:03+0100\n"
+"Last-Translator: Michal Janata <mjanata@gmail.com>\n"
+"Language-Team: Michal Janata <mjanata@gmail.com>\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: hooks/functions/functions.php:59 hooks/functions/functions.php:84
+#: hooks/functions/functions.php:366
+msgid "GP Hooks"
+msgstr "GP háky"
+
+#: hooks/functions/functions.php:100
+msgid "wp_head"
+msgstr "wp_head"
+
+#: hooks/functions/functions.php:108
+msgid "Before Header"
+msgstr "Před hlavičkou"
+
+#: hooks/functions/functions.php:116
+msgid "Before Header Content"
+msgstr "Před obsahem hlavičky"
+
+#: hooks/functions/functions.php:124
+msgid "After Header Content"
+msgstr "Po obsahu hlavičky"
+
+#: hooks/functions/functions.php:132
+msgid "After Header"
+msgstr "Po hlavičce"
+
+#: hooks/functions/functions.php:140
+msgid "Inside Content Container"
+msgstr "Uvnitř obsahového prostoru"
+
+#: hooks/functions/functions.php:148
+msgid "Before Content"
+msgstr "Před obsahem"
+
+#: hooks/functions/functions.php:156
+msgid "After Entry Title"
+msgstr "Po názvu příspěvku"
+
+#: hooks/functions/functions.php:164
+msgid "After Content"
+msgstr "Po obsahu"
+
+#: hooks/functions/functions.php:172
+msgid "Before Right Sidebar Content"
+msgstr "Před obsahem pravého postranního panelu"
+
+#: hooks/functions/functions.php:180
+msgid "After Right Sidebar Content"
+msgstr "Po obsahu pravého postranního panelu"
+
+#: hooks/functions/functions.php:188
+msgid "Before Left Sidebar Content"
+msgstr "Před obsahem levého postranního panelu"
+
+#: hooks/functions/functions.php:196
+msgid "After Left Sidebar Content"
+msgstr "Po obsahu levého postranního panelu"
+
+#: hooks/functions/functions.php:204
+msgid "Before Footer"
+msgstr "Před patičkou"
+
+#: hooks/functions/functions.php:212
+msgid "After Footer Widgets"
+msgstr "Po widgetech patičky"
+
+#: hooks/functions/functions.php:220
+msgid "Before Footer Content"
+msgstr "Před obsahem patičky"
+
+#: hooks/functions/functions.php:228
+msgid "After Footer Content"
+msgstr "Po obsahu patičky"
+
+#: hooks/functions/functions.php:236
+msgid "wp_footer"
+msgstr "wp_footer"
+
+#: hooks/functions/functions.php:319
+msgid "Execute PHP"
+msgstr "Spustit PHP"
+
+#: hooks/functions/functions.php:320
+msgid "Disable Hook"
+msgstr "Zakázat hák"
+
+#: hooks/functions/functions.php:368
+msgid ""
+"Use these fields to insert anything you like throughout GeneratePress. "
+"Shortcodes are allowed, and you can even use PHP if you check the Execute "
+"PHP checkboxes."
+msgstr ""
+"Použijte tato pole pro vložení čehokoli skrze GeneratePress. Zkratky "
+"(shortcodes) jsou povoleny a můžete dokonce použít PHP, pokud zaškrtnete "
+"políčko Spustit PHP."
+
+#: hooks/functions/functions.php:370
+msgid "Show all"
+msgstr "Zobrazit vše"
+
+#: hooks/functions/functions.php:381
+msgid "Save Hooks"
+msgstr "Uložit háky"
+
+#: hooks/functions/functions.php:451
+msgid "Hooks saved."
+msgstr "Háky uloženy."
+
+#: hooks/functions/ie.php:59
+msgid "Export GP Hooks"
+msgstr "Exportovat GP háky"
+
+#: hooks/functions/ie.php:109
+msgid "Warning: This will delete your settings."
+msgstr "Varování: Toto smaže vaše nastavení."
+
+#: hooks/functions/ie.php:111
+msgid "Delete GP Hooks"
+msgstr "Smazat GP háky"
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+#~ msgstr ""
+#~ "Je dostupná nová verze %1$s. <a target=\"_blank\" class=\"thickbox\" href="
+#~ "\"%2$s\">Zobrazit podrobnosti o verzi %3$s</a>."
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+#~ "\">update now</a>."
+#~ msgstr ""
+#~ "Je dostupná nová verze %1$s. <a target=\"_blank\" class=\"thickbox\" href="
+#~ "\"%2$s\">Zobrazit podrobnosti o verzi %3$s</a> nebo <a href=\"%4$s"
+#~ "\">aktualizovat nyní</a>."
+
+#~ msgid "You do not have permission to install plugin updates"
+#~ msgstr "Nemáte oprávnění k instalaci aktualizací pluginů"
+
+#~ msgid "Error"
+#~ msgstr "Chyba"
+
+#~ msgid "Save Settings"
+#~ msgstr "Uložit nastavení"
+
+#~ msgid ""
+#~ "Want updates served directly to your Dashboard? Activate the email you "
+#~ "purchased your add-ons with here."
+#~ msgstr ""
+#~ "Chcete aktualizace dodávat přímo do vaší Nástěnky? Aktivujte zde email, "
+#~ "kterým jste zakoupili vaše doplňky."
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Deactivate Email"
+#~ msgstr "Deaktivovat email"
+
+#~ msgid "Activate Email"
+#~ msgstr "Aktivovat email"
+
+#~ msgid "Save Email"
+#~ msgstr "Uložit email"
+
+#~ msgid "Enable All Updates"
+#~ msgstr "Povolit všechny aktualizace"
+
+#~ msgid "Disable Updates"
+#~ msgstr "Zakázat aktualizace"
+
+#~ msgid "Enable Updates"
+#~ msgstr "Povolit aktualizace"
+
+#~ msgid "Email activation failed. This email does not exist in our records."
+#~ msgstr "Aktivace emailu selhala. Tento email v našich záznamech neexistuje."
+
+#~ msgid "Email activated."
+#~ msgstr "Email aktivován."
+
+#~ msgid "Email deactivated."
+#~ msgstr "Email deaktivován."
+
+#~ msgid "License failed."
+#~ msgstr "Licence selhala."
+
+#~ msgid "License activated."
+#~ msgstr "Licence aktivována."
+
+#~ msgid "Licenses activated."
+#~ msgstr "Licence aktivovány."
+
+#~ msgid "Deactivation failed."
+#~ msgstr "Deaktivace selhala."
+
+#~ msgid "License deactivated."
+#~ msgstr "Licence deaktivována."

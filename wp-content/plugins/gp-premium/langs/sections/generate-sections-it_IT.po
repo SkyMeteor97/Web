@@ -1,0 +1,280 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Sections\n"
+"POT-Creation-Date: 2016-12-24 14:10+0100\n"
+"PO-Revision-Date: 2016-12-24 14:11+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: inc/acf\n"
+
+#: sections/functions/metaboxes/metabox-functions.php:47
+msgid "Use Sections"
+msgstr "Utilizzare \"Sezioni\""
+
+#: sections/functions/metaboxes/metabox-functions.php:48
+msgid "Sections"
+msgstr "Sezioni"
+
+#: sections/functions/metaboxes/metabox-functions.php:202
+msgid "This action can not be undone, are you sure?"
+msgstr "Questa azione non può essere annullata, sei sicuro?"
+
+#: sections/functions/metaboxes/metabox-functions.php:205
+msgid "Section"
+msgstr "Sezione"
+
+#: sections/functions/metaboxes/metabox-functions.php:206
+#: sections/functions/metaboxes/metabox-functions.php:209
+msgid "Content"
+msgstr "Contenuto"
+
+#: sections/functions/metaboxes/metabox-functions.php:208
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: sections/functions/metaboxes/metabox-functions.php:214
+msgid "Section Background"
+msgstr "Sfondo della sezione"
+
+#: sections/functions/metaboxes/metabox-functions.php:215
+msgid "Set as Section Background"
+msgstr "Imposta come sfondo Sezione"
+
+#: sections/functions/metaboxes/metabox-functions.php:219
+msgid "Insert into Section"
+msgstr "Inserire nella Sezione"
+
+#: sections/functions/metaboxes/metabox-functions.php:220
+#: sections/functions/metaboxes/views/sections-template.php:74
+msgid "Edit Section"
+msgstr "Modifica Sezione"
+
+#: sections/functions/metaboxes/views/sections-template.php:35
+msgid "Click to edit"
+msgstr "Fare clic per modificare"
+
+#: sections/functions/metaboxes/views/sections-template.php:37
+msgid "Click to edit content"
+msgstr "Fare clic per modificare il contenuto"
+
+#: sections/functions/metaboxes/views/sections-template.php:38
+msgid "Click to edit settings"
+msgstr "Fare clic per modificare le impostazioni"
+
+#: sections/functions/metaboxes/views/sections-template.php:39
+msgid "Click and drag to sort"
+msgstr "Fare clic e trascinare per ordinare"
+
+#: sections/functions/metaboxes/views/sections-template.php:40
+msgid "Click to remove"
+msgstr "Fare clic per rimuovere"
+
+#: sections/functions/metaboxes/views/sections-template.php:54
+msgid "Add Section"
+msgstr "Aggiungi Sezione"
+
+#: sections/functions/metaboxes/views/sections-template.php:55
+msgid "Remove Sections"
+msgstr "Rimuovere le sezioni"
+
+#: sections/functions/metaboxes/views/sections-template.php:69
+msgid "Close"
+msgstr "Chiudi"
+
+#: sections/functions/metaboxes/views/sections-template.php:80
+msgid "Apply"
+msgstr "Applica"
+
+#: sections/functions/metaboxes/views/sections-template.php:81
+msgid "Cancel"
+msgstr "Cancella"
+
+#: sections/functions/metaboxes/views/sections-template.php:110
+msgid "Section Label"
+msgstr "Etichetta Sezione"
+
+#: sections/functions/metaboxes/views/sections-template.php:126
+msgid "Add Media"
+msgstr "Aggiungi file multimediale"
+
+#: sections/functions/metaboxes/views/sections-template.php:131
+msgid "Visual"
+msgstr "Visuale"
+
+#: sections/functions/metaboxes/views/sections-template.php:132
+msgctxt "Name for the Text editor tab (formerly HTML)"
+msgid "Text"
+msgstr "Testo [Riferito al Editore di Testo(prima chiamato HTML)]"
+
+#: sections/functions/metaboxes/views/sections-template.php:161
+msgid "Layout"
+msgstr "Layout"
+
+#: sections/functions/metaboxes/views/sections-template.php:162
+msgid "Box Type"
+msgstr "Tipo di contenitore"
+
+#: sections/functions/metaboxes/views/sections-template.php:166
+#: sections/functions/metaboxes/views/sections-template.php:176
+msgid "Full Width"
+msgstr "Larghezza piena"
+
+#: sections/functions/metaboxes/views/sections-template.php:167
+#: sections/functions/metaboxes/views/sections-template.php:175
+msgid "Contained"
+msgstr "Contenuta"
+
+#: sections/functions/metaboxes/views/sections-template.php:171
+msgid "Inner Box Type"
+msgstr "Tipo di contenitore interno"
+
+#: sections/functions/metaboxes/views/sections-template.php:180
+msgid "Custom Classes"
+msgstr "Classe CSS"
+
+#: sections/functions/metaboxes/views/sections-template.php:186
+msgid "Top Padding"
+msgstr "Spaziatura (padding) Superiore"
+
+#: sections/functions/metaboxes/views/sections-template.php:195
+msgid "Bottom Padding"
+msgstr "Spaziatura (padding) Inferiore"
+
+#: sections/functions/metaboxes/views/sections-template.php:205
+msgid "Colors"
+msgstr "Colori"
+
+#: sections/functions/metaboxes/views/sections-template.php:206
+msgid "Background Color"
+msgstr "Colore dello sfondo"
+
+#: sections/functions/metaboxes/views/sections-template.php:211
+msgid "Text Color"
+msgstr "Colore del testo"
+
+#: sections/functions/metaboxes/views/sections-template.php:217
+msgid "Link Color"
+msgstr "Colore dei links"
+
+#: sections/functions/metaboxes/views/sections-template.php:223
+msgid "Link Color Hover"
+msgstr "Colore dei link al passaggio del mouse"
+
+#: sections/functions/metaboxes/views/sections-template.php:230
+msgid "Background"
+msgstr "Sfondo"
+
+#: sections/functions/metaboxes/views/sections-template.php:231
+#: sections/functions/metaboxes/views/sections-template.php:236
+msgid "Background Image"
+msgstr "Immagine di sfondo"
+
+#: sections/functions/metaboxes/views/sections-template.php:236
+msgid "Upload"
+msgstr "Carica"
+
+#: sections/functions/metaboxes/views/sections-template.php:237
+msgid "Remove"
+msgstr "Rimuovi "
+
+#: sections/functions/metaboxes/views/sections-template.php:241
+msgid "Parallax Effect"
+msgstr "Effetto Parallax"
+
+#: sections/functions/metaboxes/views/sections-template.php:244
+msgid "Disable"
+msgstr "Disabilita"
+
+#: sections/functions/metaboxes/views/sections-template.php:245
+msgid "Enable"
+msgstr "Abilita"
+
+#: sections/functions/metaboxes/views/sections.php:8
+msgid "Javascript must be enabled to use Generate Sections"
+msgstr ""
+"Javascript deve essere abilitato per usare la Generazione delle Sezioni"
+
+#: sections/functions/templates/template.php:103
+msgid "No sections added!"
+msgstr "Nessuna sezione aggiunta!"
+
+#~ msgid "Error: Content already detected in default editor."
+#~ msgstr "Errore: C'è del contenuto nell'editor di wordpress"
+
+#~ msgid ""
+#~ "Please activate the \"Visual\" tab in your main editor before "
+#~ "transferring content."
+#~ msgstr ""
+#~ "Attivare il tab \"Visuale\" nel tuo editor principale prima di trasferire "
+#~ "il contenuto"
+
+#~ msgid "Click to toggle"
+#~ msgstr "Clicca per attivare"
+
+#~ msgid "Fluid"
+#~ msgstr "Fluida "
+
+#~ msgid "No"
+#~ msgstr "No"
+
+#~ msgid "Yes"
+#~ msgstr "Si"
+
+#~ msgid "Send sections to default editor"
+#~ msgstr "Inviare sezione al editor di wordpress"
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+#~ msgstr ""
+#~ "C'è una nuova versione disponibile di %1$s . <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">Vedi i dettagli della  versione %3$s </a>."
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+#~ "\">update now</a>."
+#~ msgstr ""
+#~ "C’è una nuova versione di %1$s disponibile. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">Vedi i dettagli della versione %3$s </a> o <a "
+#~ "href=“%4$s”>aggiorna ora</a>."
+
+#~ msgid "You do not have permission to install plugin updates"
+#~ msgstr "Non hai il permesso di installare gli aggiornamenti dei plugin"
+
+#~ msgid "Error"
+#~ msgstr "Errore"
+
+#~ msgid "License failed."
+#~ msgstr "Licenza non riuscita."
+
+#~ msgid "License activated."
+#~ msgstr "Licenza attivata."
+
+#~ msgid "License deactivated."
+#~ msgstr "Licenza disattivata."
+
+#~ msgid "Updates %s"
+#~ msgstr "Aggiornamenti %s"
+
+#~ msgid "Help"
+#~ msgstr "Aiuto"
+
+#~ msgid "License Key"
+#~ msgstr "Chiave Licenza"
+
+#~ msgid "Update"
+#~ msgstr "Aggiorna"

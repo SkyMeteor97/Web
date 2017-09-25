@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Sections\n"
+"POT-Creation-Date: 2017-01-08 11:29+0100\n"
+"PO-Revision-Date: 2017-01-08 12:31+0100\n"
+"Last-Translator: Michal Janata <mjanata@gmail.com>\n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: inc/acf\n"
+
+#: sections/functions/metaboxes/metabox-functions.php:47
+msgid "Use Sections"
+msgstr "Použít sekce"
+
+#: sections/functions/metaboxes/metabox-functions.php:48
+msgid "Sections"
+msgstr "Sekce"
+
+#: sections/functions/metaboxes/metabox-functions.php:202
+msgid "This action can not be undone, are you sure?"
+msgstr "Tuto akci nelze vrátit zpět, jste si jistý?"
+
+#: sections/functions/metaboxes/metabox-functions.php:205
+msgid "Section"
+msgstr "Sekce"
+
+#: sections/functions/metaboxes/metabox-functions.php:206
+#: sections/functions/metaboxes/metabox-functions.php:209
+msgid "Content"
+msgstr "Obsah"
+
+#: sections/functions/metaboxes/metabox-functions.php:208
+msgid "Settings"
+msgstr "Nastavení"
+
+#: sections/functions/metaboxes/metabox-functions.php:214
+msgid "Section Background"
+msgstr "Pozadí sekce"
+
+#: sections/functions/metaboxes/metabox-functions.php:215
+msgid "Set as Section Background"
+msgstr "Nastavit jako pozadí"
+
+#: sections/functions/metaboxes/metabox-functions.php:219
+msgid "Insert into Section"
+msgstr "Vložit do sekce"
+
+#: sections/functions/metaboxes/metabox-functions.php:220
+#: sections/functions/metaboxes/views/sections-template.php:74
+msgid "Edit Section"
+msgstr "Upravit sekci"
+
+#: sections/functions/metaboxes/views/sections-template.php:35
+msgid "Click to edit"
+msgstr "Kliknutím otevřete možnosti úpravy"
+
+#: sections/functions/metaboxes/views/sections-template.php:37
+msgid "Click to edit content"
+msgstr "Kliknutím otevřete úpravy obsahu"
+
+#: sections/functions/metaboxes/views/sections-template.php:38
+msgid "Click to edit settings"
+msgstr "Kliknutím otevřete úpravy nastavení"
+
+#: sections/functions/metaboxes/views/sections-template.php:39
+msgid "Click and drag to sort"
+msgstr "Kliknutím a tažením seřadit"
+
+#: sections/functions/metaboxes/views/sections-template.php:40
+msgid "Click to remove"
+msgstr "Kliknutím odstranit"
+
+#: sections/functions/metaboxes/views/sections-template.php:54
+msgid "Add Section"
+msgstr "Přidat sekci"
+
+#: sections/functions/metaboxes/views/sections-template.php:55
+msgid "Remove Sections"
+msgstr "Odebrat sekce"
+
+#: sections/functions/metaboxes/views/sections-template.php:69
+msgid "Close"
+msgstr "Zavřít"
+
+#: sections/functions/metaboxes/views/sections-template.php:80
+msgid "Apply"
+msgstr "Uložit"
+
+#: sections/functions/metaboxes/views/sections-template.php:81
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: sections/functions/metaboxes/views/sections-template.php:110
+msgid "Section Label"
+msgstr "Popis sekce"
+
+#: sections/functions/metaboxes/views/sections-template.php:126
+msgid "Add Media"
+msgstr "Mediální soubory"
+
+#: sections/functions/metaboxes/views/sections-template.php:131
+msgid "Visual"
+msgstr "Editor"
+
+#: sections/functions/metaboxes/views/sections-template.php:132
+msgctxt "Name for the Text editor tab (formerly HTML)"
+msgid "Text"
+msgstr "HTML"
+
+#: sections/functions/metaboxes/views/sections-template.php:161
+msgid "Layout"
+msgstr "Vzhled"
+
+#: sections/functions/metaboxes/views/sections-template.php:162
+msgid "Box Type"
+msgstr "Typ prostoru"
+
+#: sections/functions/metaboxes/views/sections-template.php:166
+#: sections/functions/metaboxes/views/sections-template.php:176
+msgid "Full Width"
+msgstr "Plný"
+
+#: sections/functions/metaboxes/views/sections-template.php:167
+#: sections/functions/metaboxes/views/sections-template.php:175
+msgid "Contained"
+msgstr "Omezený"
+
+#: sections/functions/metaboxes/views/sections-template.php:171
+msgid "Inner Box Type"
+msgstr "Typ vnitřního prostoru"
+
+#: sections/functions/metaboxes/views/sections-template.php:180
+msgid "Custom Classes"
+msgstr "Vlastní třídy"
+
+#: sections/functions/metaboxes/views/sections-template.php:186
+msgid "Top Padding"
+msgstr "Vrchní odsazení"
+
+#: sections/functions/metaboxes/views/sections-template.php:195
+msgid "Bottom Padding"
+msgstr "Spodní odsazení"
+
+#: sections/functions/metaboxes/views/sections-template.php:205
+msgid "Colors"
+msgstr "Barvy"
+
+#: sections/functions/metaboxes/views/sections-template.php:206
+msgid "Background Color"
+msgstr "Barva pozadí"
+
+#: sections/functions/metaboxes/views/sections-template.php:211
+msgid "Text Color"
+msgstr "Barva textu"
+
+#: sections/functions/metaboxes/views/sections-template.php:217
+msgid "Link Color"
+msgstr "Barva odkazu"
+
+#: sections/functions/metaboxes/views/sections-template.php:223
+msgid "Link Color Hover"
+msgstr "Barva odkazu při přejetí kurzorem myši"
+
+#: sections/functions/metaboxes/views/sections-template.php:230
+msgid "Background"
+msgstr "Pozadí"
+
+#: sections/functions/metaboxes/views/sections-template.php:231
+#: sections/functions/metaboxes/views/sections-template.php:236
+msgid "Background Image"
+msgstr "Obrázek na pozadí"
+
+#: sections/functions/metaboxes/views/sections-template.php:236
+msgid "Upload"
+msgstr "Nahrát"
+
+#: sections/functions/metaboxes/views/sections-template.php:237
+msgid "Remove"
+msgstr "Odstranit"
+
+#: sections/functions/metaboxes/views/sections-template.php:241
+msgid "Parallax Effect"
+msgstr "Paralaxový efekt"
+
+#: sections/functions/metaboxes/views/sections-template.php:244
+msgid "Disable"
+msgstr "Zakázat"
+
+#: sections/functions/metaboxes/views/sections-template.php:245
+msgid "Enable"
+msgstr "Povolit"
+
+#: sections/functions/metaboxes/views/sections.php:8
+msgid "Javascript must be enabled to use Generate Sections"
+msgstr "Javascript musí být povolen pro použití Generate sekcí"
+
+#: sections/functions/templates/template.php:103
+msgid "No sections added!"
+msgstr "Nebyly přidány žádné sekce!"
+
+#~ msgid "Error: Content already detected in default editor."
+#~ msgstr "Chyba: Obsah již detekován ve výchozím editoru."
+
+#~ msgid ""
+#~ "Please activate the \"Visual\" tab in your main editor before "
+#~ "transferring content."
+#~ msgstr ""
+#~ "Prosím aktivujte záložku \"Vizuální\" ve vašem hlavním editoru než budete "
+#~ "přenášet obsah."
+
+#~ msgid "Click to toggle"
+#~ msgstr "Kliknutím rozbalit/sbalit"
+
+#~ msgid "Fluid"
+#~ msgstr "Proměnlivý"
+
+#~ msgid "No"
+#~ msgstr "Ne"
+
+#~ msgid "Yes"
+#~ msgstr "Ano"
+
+#~ msgid "Send sections to default editor"
+#~ msgstr "Poslat sekce do výchozího editoru"
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+#~ msgstr ""
+#~ "Je dostupná nová verze %1$s. <a target=\"_blank\" class=\"thickbox\" href="
+#~ "\"%2$s\">Zobrazit podrobnosti o verzi %3$s</a>."
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+#~ "\">update now</a>."
+#~ msgstr ""
+#~ "Je dostupná nová verze %1$s. <a target=\"_blank\" class=\"thickbox\" href="
+#~ "\"%2$s\">Zobrazit podrobnosti o verzi %3$s</a> nebo <a href=\"%4$s"
+#~ "\">aktualizovat nyní</a>."
+
+#~ msgid "You do not have permission to install plugin updates"
+#~ msgstr "Nemáte oprávnění k instalaci aktualizací pluginů"
+
+#~ msgid "Error"
+#~ msgstr "Chyba"
+
+#~ msgid ""
+#~ "Want updates served directly to your Dashboard? Activate the email you "
+#~ "purchased your add-ons with here."
+#~ msgstr ""
+#~ "Chcete aktualizace dodávat přímo do vaší Nástěnky? Aktivujte zde email, "
+#~ "kterým jste zakoupili vaše doplňky."
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Deactivate Email"
+#~ msgstr "Deaktivovat email"
+
+#~ msgid "Activate Email"
+#~ msgstr "Aktivovat email"
+
+#~ msgid "Save Email"
+#~ msgstr "Uložit email"
+
+#~ msgid "Enable All Updates"
+#~ msgstr "Povolit všechny aktualizace"
+
+#~ msgid "Disable Updates"
+#~ msgstr "Zakázat aktualizace"
+
+#~ msgid "Enable Updates"
+#~ msgstr "Povolit aktualizace"
+
+#~ msgid "Email activation failed. This email does not exist in our records."
+#~ msgstr "Aktivace emailu selhala. Tento email v našich záznamech neexistuje."
+
+#~ msgid "Email activated."
+#~ msgstr "Email aktivován."
+
+#~ msgid "Email deactivated."
+#~ msgstr "Email deaktivován."
+
+#~ msgid "License failed."
+#~ msgstr "Licence selhala."
+
+#~ msgid "License activated."
+#~ msgstr "Licence aktivována."
+
+#~ msgid "Licenses activated."
+#~ msgstr "Licence aktivovány."
+
+#~ msgid "Deactivation failed."
+#~ msgstr "Deaktivace selhala."
+
+#~ msgid "License deactivated."
+#~ msgstr "Licence deaktivována."
