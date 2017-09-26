@@ -1,0 +1,122 @@
+.sticky-menu-fade .navigation-clone {
+    width: 100%;
+    position: fixed;
+    top: -200%;
+    z-index: 100;
+	display: none;
+}
+
+.sticky-menu-fade .navigation-clone.navigation-stick {
+    top: 0;
+}
+
+.sticky-menu-slide .navigation-clone {
+	width: 100%;
+    position: fixed;
+	z-index: 100;
+	
+	/* Translate -100% to move off screen */
+	-webkit-transform: translateY(-1000%);
+	-ms-transform: translateY(-1000%);
+	transform: translateY(-1000%);
+
+	/* Animations */
+	-webkit-transition: all 0ms ease-in-out;
+	-moz-transition: all 0ms ease-in-out;
+	transition: all 0ms ease-in-out;
+}
+
+.sticky-menu-slide .navigation-clone.navigation-stick {
+	/* Animations */
+	-webkit-transition: all 300ms ease-in-out;
+	-moz-transition: all 300ms ease-in-out;
+	transition: all 300ms ease-in-out;
+	
+	/* Translate back to 0%; */
+	-webkit-transform: translateY(0%);
+	-ms-transform: translateY(0%);
+	transform: translateY(0%);
+}
+
+.navigation-clone.navigation-stick {
+	top: 0;
+}
+
+@media (max-width: 782px) {
+	.admin-bar .navigation-clone.navigation-stick {
+		top: 46px;
+	}
+}
+
+@media (min-width: 783px) {
+	.admin-bar .navigation-clone.navigation-stick {
+		top: 32px;
+	}
+}
+
+@media (max-width: 600px) {
+	.admin-bar .navigation-clone.navigation-stick {
+		top: 0;
+	}
+}
+
+.navigation-search-disabled {
+	display: none;
+}
+
+.main-navigation li.search-item-disabled {
+	float: right;
+}
+
+.main-navigation li.search-item-disabled i {
+	transform: rotate(90deg);
+}
+
+.widget-area .main-navigation.navigation-clone li {
+    float: left;
+    width: auto;
+}
+
+.main-navigation.navigation-clone {
+	box-shadow:0 2px 2px -2px rgba(0, 0, 0, .2);
+}
+
+@media (min-width: 768.1px) {
+	.mobile-sticky-menu .main-navigation.navigation-clone {
+		display:none !important;
+	}
+}
+
+@media (max-width: 767px) {
+	.desktop-sticky-menu .main-navigation.navigation-clone {
+		display:none !important;
+	}
+}
+
+@media (min-width: 768.1px) {
+	.nav-float-right .navigation-clone.main-navigation .menu > li {
+		float: none;
+		display: inline-block;
+		*display: inline;
+		*zoom: 1;
+	}
+	
+	.nav-float-right .navigation-clone.main-navigation .menu > li.slideout-toggle,
+	.nav-float-right .navigation-clone.main-navigation .menu > li.search-item {
+		display: block;
+		float: right;
+	}
+
+	.nav-float-right .navigation-clone.main-navigation ul {
+		letter-spacing: -0.31em;
+		font-size: 1em;
+	}
+
+	.nav-float-right .navigation-clone.main-navigation ul li {
+		letter-spacing: normal;
+	}
+
+	.nav-float-right .navigation-clone.main-navigation {
+		text-align: right;
+	}
+}

@@ -1,0 +1,278 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Colors\n"
+"POT-Creation-Date: 2016-12-24 12:52+0100\n"
+"PO-Revision-Date: 2016-12-24 12:52+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: colors/functions/functions.php:85
+msgid "Colors"
+msgstr "Colori"
+
+#: colors/functions/functions.php:97
+msgid "Header"
+msgstr "Header"
+
+#: colors/functions/functions.php:109 colors/functions/functions.php:187
+#: colors/functions/functions.php:265 colors/functions/functions.php:342
+#: colors/functions/functions.php:462 colors/functions/functions.php:534
+#: colors/functions/functions.php:708
+msgid "Background"
+msgstr "Sfondo"
+
+#: colors/functions/functions.php:115 colors/functions/functions.php:193
+#: colors/functions/functions.php:271 colors/functions/functions.php:348
+#: colors/functions/functions.php:468 colors/functions/functions.php:540
+#: colors/functions/functions.php:714
+msgid "Text"
+msgstr "Testo"
+
+#: colors/functions/functions.php:121 colors/functions/functions.php:354
+#: colors/functions/functions.php:474 colors/functions/functions.php:546
+#: colors/functions/functions.php:720
+msgid "Link"
+msgstr "Collegati"
+
+#: colors/functions/functions.php:127 colors/functions/functions.php:360
+#: colors/functions/functions.php:480 colors/functions/functions.php:552
+#: colors/functions/functions.php:726
+msgid "Link Hover"
+msgstr "Link in modalità :hover"
+
+#: colors/functions/functions.php:133
+msgid "Site Title"
+msgstr "Titolo del sito"
+
+#: colors/functions/functions.php:139
+msgid "Tagline"
+msgstr "Slogan (Tagline)"
+
+#: colors/functions/functions.php:175
+msgid "Primary Navigation"
+msgstr "Navigazione principale"
+
+#: colors/functions/functions.php:199 colors/functions/functions.php:277
+msgid "Background Hover"
+msgstr "Sfondo in modalità :hover"
+
+#: colors/functions/functions.php:205 colors/functions/functions.php:283
+msgid "Text Hover"
+msgstr "Testo in modalità :hover"
+
+#: colors/functions/functions.php:211 colors/functions/functions.php:289
+msgid "Background Current"
+msgstr "Sfondo in modalità :current"
+
+#: colors/functions/functions.php:217 colors/functions/functions.php:295
+msgid "Text Current"
+msgstr "Testo :current"
+
+#: colors/functions/functions.php:253
+msgid "Primary Sub-Navigation"
+msgstr "Sotto-Menu Principale"
+
+#: colors/functions/functions.php:330
+msgid "Content"
+msgstr "Contenuto"
+
+#: colors/functions/functions.php:366
+msgid "Content Title"
+msgstr "Titolo contenuto"
+
+#: colors/functions/functions.php:372
+msgid "Blog Post Title"
+msgstr "Titolo del Post del Blog"
+
+#: colors/functions/functions.php:378
+msgid "Blog Post Title Hover"
+msgstr "Titolo del Post in modalità :hover"
+
+#: colors/functions/functions.php:384
+msgid "Entry Meta Text"
+msgstr "Meta text"
+
+#: colors/functions/functions.php:390
+msgid "Entry Meta Links"
+msgstr "Meta links"
+
+#: colors/functions/functions.php:396
+msgid "Entry Meta Links Hover"
+msgstr "Meta links in modalità :hover"
+
+#: colors/functions/functions.php:402
+msgid "Heading 1 (H1) Color"
+msgstr "Colore dei Titoli H1"
+
+#: colors/functions/functions.php:408
+msgid "Heading 2 (H2) Color"
+msgstr "Colore dei Titoli H2"
+
+#: colors/functions/functions.php:414
+msgid "Heading 3 (H3) Color"
+msgstr "Colore dei Titoli H3"
+
+#: colors/functions/functions.php:450
+msgid "Sidebar Widgets"
+msgstr "Widget Sidebar"
+
+#: colors/functions/functions.php:486 colors/functions/functions.php:558
+msgid "Widget Title"
+msgstr "Titolo del Widget"
+
+#: colors/functions/functions.php:522
+msgid "Footer Widgets"
+msgstr "Widgets Footer"
+
+#: colors/functions/functions.php:594
+msgid "Forms"
+msgstr "Moduli"
+
+#: colors/functions/functions.php:606
+msgid "Form Background"
+msgstr "Sfondo dei moduli (form)"
+
+#: colors/functions/functions.php:612
+msgid "Form Text"
+msgstr "Testo del Modulo"
+
+#: colors/functions/functions.php:618
+msgid "Form Background Focus/Hover"
+msgstr "Sfondo dei moduli nello stato attivo/hover"
+
+#: colors/functions/functions.php:624
+msgid "Form Text Focus/Hover"
+msgstr "Testo dei moduli nello stato attivo/hover"
+
+#: colors/functions/functions.php:630
+msgid "Form Border"
+msgstr "Bordo dei moduli"
+
+#: colors/functions/functions.php:636
+msgid "Form Border Focus/Hover"
+msgstr "Bordo dei moduli in modalità attiva/hover"
+
+#: colors/functions/functions.php:642
+msgid "Form Button"
+msgstr "Pulsanti dei moduli"
+
+#: colors/functions/functions.php:648
+msgid "Form Button Focus/Hover"
+msgstr "Pulsanti dei moduli in modalità attiva/hover"
+
+#: colors/functions/functions.php:654
+msgid "Form Button Text"
+msgstr "Testo nei pulsanti dei moduli"
+
+#: colors/functions/functions.php:660
+msgid "Form Button Text Focus/Hover"
+msgstr "Testo sui pulsanti dei moduli inmodalità attiva/hover"
+
+#: colors/functions/functions.php:696
+msgid "Footer"
+msgstr "Footer"
+
+#~ msgid "Header Colors"
+#~ msgstr "Colori della testata"
+
+#~ msgid "Navigation Colors"
+#~ msgstr "Colore Menu"
+
+#~ msgid "Sub-Navigation Colors"
+#~ msgstr "Colore Sotto-Menu"
+
+#~ msgid "Content Colors"
+#~ msgstr "Colori del Contenuto"
+
+#~ msgid "Sidebar Widget Colors"
+#~ msgstr "Colore dei Widgets della Barra laterale"
+
+#~ msgid "Footer Widget Colors"
+#~ msgstr "Colore dei Widgets del piè di pagina (Footer Widgets)"
+
+#~ msgid "Footer Colors"
+#~ msgstr "Colore del piè di pagina (Footer)"
+
+#~ msgid "Form Colors"
+#~ msgstr "Colore dei Moduli (Form)"
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+#~ "\">update now</a>."
+#~ msgstr ""
+#~ "C’è una nuova versione di %1$s disponibile. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">Vedi i dettagli della versione %3$s </a> o <a "
+#~ "href=“%4$s”>aggiorna ora</a>."
+
+#~ msgid "You do not have permission to install plugin updates"
+#~ msgstr "Non hai il permesso di installare gli aggiornamenti dei plugin"
+
+#~ msgid "Error"
+#~ msgstr "Errore"
+
+#~ msgid ""
+#~ "Want updates served directly to your Dashboard? Activate the email you "
+#~ "purchased your add-ons with here."
+#~ msgstr ""
+#~ "Vuoi aggiornamenti serviti direttamente sulla tua Dashboard? Inserisci e "
+#~ "attiva l'e-mail con la quale sono stati acquistati i componenti "
+#~ "aggiuntivi."
+
+#~ msgid "Email"
+#~ msgstr "E-mail"
+
+#~ msgid "Deactivate Email"
+#~ msgstr "Disattivare Email"
+
+#~ msgid "Activate Email"
+#~ msgstr "Attiva-mail"
+
+#~ msgid "Save Email"
+#~ msgstr "Salva E-mail"
+
+#~ msgid "Enable All Updates"
+#~ msgstr "Abilita tutti gli aggiornamenti"
+
+#~ msgid "Email activation failed. This email does not exist in our records."
+#~ msgstr ""
+#~ "Attivazione E-mail fallita. Questa email non esiste nei nostri archivi."
+
+#~ msgid "Email activated."
+#~ msgstr "Email attivatq."
+
+#~ msgid "Email deactivated."
+#~ msgstr "Email disattivata."
+
+#~ msgid "License failed."
+#~ msgstr "Licenza non riuscita."
+
+#~ msgid "License activated."
+#~ msgstr "Licenza attivata."
+
+#~ msgid "Licenses activated."
+#~ msgstr "Licenze attivate."
+
+#~ msgid "Deactivation failed."
+#~ msgstr "Disattivazione non riuscita."
+
+#~ msgid "License deactivated."
+#~ msgstr "Licenza disattivata."
+
+#~ msgid "Disable Updates"
+#~ msgstr "Disattiva Aggiornamenti"
+
+#~ msgid "Enable Updates"
+#~ msgstr "Abilita Aggiornamenti"

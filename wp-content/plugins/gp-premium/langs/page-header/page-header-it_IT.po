@@ -1,0 +1,779 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Page Header\n"
+"POT-Creation-Date: 2016-12-24 13:01+0100\n"
+"PO-Revision-Date: 2016-12-24 13:16+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: inc/admin-page-framework\n"
+
+#: page-header/functions/controls.php:12
+msgid "Apply image sizes"
+msgstr "Applicare le dimensioni delle immagini"
+
+#: page-header/functions/customizer.php:20
+msgid "Blog Page Header"
+msgstr "Testata del Blog"
+
+#: page-header/functions/customizer.php:36
+#: page-header/functions/metabox.php:161
+msgid "Page Header Image"
+msgstr "Immagine della Testata"
+
+#: page-header/functions/customizer.php:58
+#: page-header/functions/metabox.php:126
+msgid "Image"
+msgstr "Immagine"
+
+#: page-header/functions/customizer.php:59
+msgid "Upload an image to be used as your page header."
+msgstr "Caricare un'immagine da utilizzare nella Testata"
+
+#: page-header/functions/customizer.php:79
+#: page-header/functions/metabox.php:173
+msgid "Image link"
+msgstr "Link immagine"
+
+#: page-header/functions/customizer.php:80
+msgid "Make your page header image clickable by adding a URL. (optional)"
+msgstr "Rendi l'immagine clickabile aggiungendo una URL. (opzionale)"
+
+#: page-header/functions/customizer.php:103
+#: page-header/functions/metabox.php:178
+msgid "Resize image"
+msgstr "Ridimensiona immagine"
+
+#: page-header/functions/customizer.php:104
+msgid "Turn hard cropping or of off."
+msgstr "Attivare o Disattivare il ritaglio forzato"
+
+#: page-header/functions/customizer.php:107
+#: page-header/functions/customizer.php:322
+#: page-header/functions/customizer.php:347
+#: page-header/functions/customizer.php:372
+#: page-header/functions/customizer.php:397
+#: page-header/functions/customizer.php:422
+#: page-header/functions/customizer.php:447
+#: page-header/functions/customizer.php:666
+#: page-header/functions/customizer.php:690
+#: page-header/functions/customizer.php:757
+#: page-header/functions/metabox.php:181
+msgid "Enable"
+msgstr "Abilita"
+
+#: page-header/functions/customizer.php:108
+#: page-header/functions/customizer.php:323
+#: page-header/functions/customizer.php:348
+#: page-header/functions/customizer.php:373
+#: page-header/functions/customizer.php:398
+#: page-header/functions/customizer.php:423
+#: page-header/functions/customizer.php:448
+#: page-header/functions/customizer.php:667
+#: page-header/functions/customizer.php:691
+#: page-header/functions/customizer.php:758
+#: page-header/functions/metabox.php:180
+msgid "Disable"
+msgstr "Disabilita"
+
+#: page-header/functions/customizer.php:130
+#: page-header/functions/metabox.php:187
+msgid "Image width"
+msgstr "Larghezza immagine"
+
+#: page-header/functions/customizer.php:131
+msgid "Choose your image width in pixels. (integer only, default is 1200)"
+msgstr ""
+"Scegli la larghezza dell'immagine in pixel. (solo numeri interi,  valore "
+"predefinito: 1200)"
+
+#: page-header/functions/customizer.php:153
+#: page-header/functions/metabox.php:192
+msgid "Image height"
+msgstr "Altezza immagine"
+
+#: page-header/functions/customizer.php:154
+msgid ""
+"Choose your image height in pixels. Use \"0\" or leave blank for "
+"proportional resizing. (integer only, default is 0) "
+msgstr ""
+"Scegli l' altezza dell'immagine in pixel. Utilizzare \"0\" oppure lasciare "
+"vuoto per il ridimensionamento proporzionale. (solo numeri interi, valore "
+"predefinito:  0)"
+
+#: page-header/functions/customizer.php:180
+#: page-header/functions/metabox.php:287 page-header/functions/metabox.php:294
+#: page-header/functions/metabox.php:301
+msgid "Page Header Video"
+msgstr "Video Intestazione"
+
+#: page-header/functions/customizer.php:201
+msgid "Video Background URL (MP4 only)"
+msgstr "Video URL Sfondo (solo MP4)"
+
+#: page-header/functions/customizer.php:222
+msgid "Video Background URL (OGV only)"
+msgstr "Video URL Sfondo (solo OGV)"
+
+#: page-header/functions/customizer.php:243
+msgid "Video Background URL (WEBM only)"
+msgstr "Video URL Sfondo (solo WEBM)"
+
+#: page-header/functions/customizer.php:264
+msgid "Overlay Color"
+msgstr "Colore Sovrapposizione"
+
+#: page-header/functions/customizer.php:276
+msgid "Page Header Content"
+msgstr "Contenuto Intestazione"
+
+#: page-header/functions/customizer.php:297
+#: page-header/functions/metabox.php:127
+msgid "Content"
+msgstr "Contenuto"
+
+#: page-header/functions/customizer.php:298
+msgid "Add your content to the page header. HTML and shortcodes allowed."
+msgstr "Aggiungi contenuto alla testata della pagina"
+
+#: page-header/functions/customizer.php:318
+msgid "Add Paragraphs"
+msgstr "Aggiungere paragrafi"
+
+#: page-header/functions/customizer.php:319
+msgid "Wrap your text in paragraph tags automatically."
+msgstr "Ritorno a capo automatico"
+
+#: page-header/functions/customizer.php:343
+msgid "Add Padding"
+msgstr "Aggiunge spaziatura (padding)"
+
+#: page-header/functions/customizer.php:344
+msgid "Add padding around your content."
+msgstr "Aggiungere spaziatura interna (padding) intorno ai tuoi contenuti."
+
+#: page-header/functions/customizer.php:368
+msgid "Image Background"
+msgstr "Immagine di Sfondo"
+
+#: page-header/functions/customizer.php:369
+msgid ""
+"Use the image uploaded above as a background image for your content. "
+"(requires image uploaded above)"
+msgstr ""
+"Utilizza l'immagine caricata come sfondo del contenuto (devi prima caricare "
+"una immagine)"
+
+#: page-header/functions/customizer.php:393
+msgid "Parallax Background"
+msgstr "Effetto paralax nello sfondo"
+
+#: page-header/functions/customizer.php:394
+msgid ""
+"Add a cool parallax effect to your background image. (requires the image "
+"background option to be checked)"
+msgstr ""
+"Aggiunge un accattivante effetto Parallax all'immagine di sfondo (ricorda di "
+"spuntare la cassella \"immagine di sfondo\")"
+
+#: page-header/functions/customizer.php:418
+msgid "Full Screen"
+msgstr "Larghezza piena"
+
+#: page-header/functions/customizer.php:419
+msgid "Make your page header content area full screen."
+msgstr "Rende l'area della testata a \"Larghezza Piena\""
+
+#: page-header/functions/customizer.php:443
+msgid "Vertical Center"
+msgstr "Allinea verticalmente al centro"
+
+#: page-header/functions/customizer.php:444
+msgid "Center your page header content vertically."
+msgstr "Centra verticalmente il contenuto della testata"
+
+#: page-header/functions/customizer.php:468
+msgid "Container Type"
+msgstr "Tipo di contenitore"
+
+#: page-header/functions/customizer.php:469
+msgid "Choose whether the page header is contained or fluid."
+msgstr ""
+"Scegli se vuoi che il contenitore della testata sia a larghezza intera "
+"oppure a larghezza contenuta"
+
+#: page-header/functions/customizer.php:472
+#: page-header/functions/metabox.php:236
+msgid "Contained"
+msgstr "Contenuta"
+
+#: page-header/functions/customizer.php:473
+#: page-header/functions/metabox.php:237
+msgid "Full width"
+msgstr "Larghezza piena"
+
+#: page-header/functions/customizer.php:493
+msgid "Text Alignment"
+msgstr "Allineamento del testo"
+
+#: page-header/functions/customizer.php:494
+msgid "Choose the horizontal alignment of your content."
+msgstr "Scegliere l'allineamento horizontale del contenuto"
+
+#: page-header/functions/customizer.php:497
+#: page-header/functions/metabox.php:244
+msgid "Left"
+msgstr "Sinistra"
+
+#: page-header/functions/customizer.php:498
+#: page-header/functions/metabox.php:245
+msgid "Center"
+msgstr "Centro"
+
+#: page-header/functions/customizer.php:499
+#: page-header/functions/metabox.php:246
+msgid "Right"
+msgstr "Destra"
+
+#: page-header/functions/customizer.php:519
+msgid "Top/Bottom Padding"
+msgstr "Spaziatura (padding) Superiore/Inferiore "
+
+#: page-header/functions/customizer.php:520
+msgid "This will add space above and below your content. (integer only) "
+msgstr ""
+"Questo aggiungerà spazio sopra e sotto il vostro contenuto. (Solo numeri "
+"interi)"
+
+#: page-header/functions/customizer.php:541
+msgid "Padding Unit"
+msgstr "Unità Spaziatura"
+
+#: page-header/functions/customizer.php:565
+msgid "Background Color"
+msgstr "Colore dello sfondo"
+
+#: page-header/functions/customizer.php:586
+msgid "Text Color"
+msgstr "Colore del testo"
+
+#: page-header/functions/customizer.php:607
+msgid "Link Color"
+msgstr "Colore dei links"
+
+#: page-header/functions/customizer.php:628
+msgid "Link Color Hover"
+msgstr "Colore link hover"
+
+#: page-header/functions/customizer.php:641
+msgid "Page Header Advanced"
+msgstr "Contenuto Intestazione Avanzato"
+
+#: page-header/functions/customizer.php:662
+#: page-header/functions/metabox.php:336
+msgid "Merge with site header"
+msgstr "Unire con l'intestazione del sito"
+
+#: page-header/functions/customizer.php:686
+#: page-header/functions/metabox.php:342
+msgid "Place content behind header (sliders etc..)"
+msgstr "Contenuti posto dietro l'intestazione (cursori, ecc.)"
+
+#: page-header/functions/customizer.php:711
+#: page-header/functions/metabox.php:347
+msgid "Site title"
+msgstr "Titolo del sito"
+
+#: page-header/functions/customizer.php:732
+#: page-header/functions/metabox.php:352
+msgid "Site tagline"
+msgstr "Slogan (Tagline)"
+
+#: page-header/functions/customizer.php:753
+#: page-header/functions/metabox.php:357
+msgid "Transparent navigation"
+msgstr "Navigazione trasparente"
+
+#: page-header/functions/customizer.php:778
+#: page-header/functions/metabox.php:363
+msgid "Navigation text"
+msgstr "Testo navigazione"
+
+#: page-header/functions/customizer.php:799
+#: page-header/functions/metabox.php:368
+msgid "Navigation background hover"
+msgstr "Sfondo navigazione hover"
+
+#: page-header/functions/customizer.php:820
+#: page-header/functions/metabox.php:373
+msgid "Navigation text hover"
+msgstr "Testo navigazione hover"
+
+#: page-header/functions/customizer.php:841
+#: page-header/functions/metabox.php:378
+msgid "Navigation background current"
+msgstr "Sfondo navigazione corrente"
+
+#: page-header/functions/customizer.php:862
+#: page-header/functions/metabox.php:383
+msgid "Navigation text current"
+msgstr "Testo navigazione corrente"
+
+#: page-header/functions/customizer.php:875
+msgid "Page Header Logo"
+msgstr "Logo testata"
+
+#: page-header/functions/customizer.php:897
+#: page-header/functions/metabox.php:130
+msgid "Logo"
+msgstr "Logo"
+
+#: page-header/functions/customizer.php:898
+msgid "Replace your logo on the blog."
+msgstr "Sostituire il vostro logo sul blog."
+
+#: page-header/functions/functions.php:583 page-header/functions/metabox.php:19
+msgid "Page Header"
+msgstr "Testata della pagina"
+
+#: page-header/functions/functions.php:611
+msgid "Page Header Position"
+msgstr "Posizione dell'intestazione "
+
+#: page-header/functions/functions.php:614
+#: page-header/functions/functions.php:644
+msgid "Above Content Area"
+msgstr "Sopra il contenuto"
+
+#: page-header/functions/functions.php:615
+#: page-header/functions/functions.php:645
+msgid "Inside Content Area"
+msgstr "All'interno del contenuto"
+
+#: page-header/functions/functions.php:641
+msgid "Single Post Header Position"
+msgstr "Posizione della Testata (header) per i singoli articoli (posts)"
+
+#: page-header/functions/functions.php:646
+msgid "Below Post Title"
+msgstr "Sotto il titolo dell'articolo"
+
+#: page-header/functions/functions.php:647
+msgid "Hide"
+msgstr "Nascondi"
+
+#: page-header/functions/ie.php:17
+msgid "Warning: This will delete your settings."
+msgstr "Attenzione: Questo cancellerà le tue impostazioni."
+
+#: page-header/functions/ie.php:19
+msgid "Delete Page Header Customizer Settings"
+msgstr "Elimina le modifiche apportate al \"Page Header Customizer\""
+
+#: page-header/functions/ie.php:56
+msgid "Export Page Header Customizer Settings"
+msgstr "Esporta le modifiche apportate al \"Page Header Customizer\""
+
+#: page-header/functions/metabox.php:128
+msgid "Background Video"
+msgstr "Video di sfondo"
+
+#: page-header/functions/metabox.php:132
+msgid "Advanced"
+msgstr "Avanzato"
+
+#: page-header/functions/metabox.php:136
+msgid "Add to excerpt"
+msgstr "Aggiungere a estratto"
+
+#: page-header/functions/metabox.php:152
+msgid ""
+"Currently using your <a href=\"#\" class=\"generate-featured-image"
+"\">featured image</a>."
+msgstr ""
+"Stai utilizzando attualmente la tua <a href=\"#\" class=\"generate-featured-"
+"image\">Immagine di Anteprima</a> ."
+
+#: page-header/functions/metabox.php:161
+msgid "Insert Image"
+msgstr "Inserisci immagine"
+
+#: page-header/functions/metabox.php:162
+msgid "Choose Image"
+msgstr "Scegli Immagine"
+
+#: page-header/functions/metabox.php:165
+msgid "Remove Image"
+msgstr "Rimuovi Immagine"
+
+#: page-header/functions/metabox.php:169
+msgid "Or you can <a href=\"#\">set the featured image</a>."
+msgstr "Oppure si può <a href=\"#\">impostare l'immagine in evidenza</a> ."
+
+#: page-header/functions/metabox.php:195
+msgid "Use \"0\" or leave blank for proportional resizing."
+msgstr ""
+"Utilizzare \"0\" oppure lasciare vuoto per il ridimensionamento "
+"proporzionale."
+
+#: page-header/functions/metabox.php:203
+msgid "HTML and shortcodes allowed."
+msgstr "HTML e Shortcodes ammessi."
+
+#: page-header/functions/metabox.php:208
+msgid "Automatically add paragraphs"
+msgstr "Aggiungi automaticamente paragrafi"
+
+#: page-header/functions/metabox.php:212
+msgid "Add padding"
+msgstr "Aggiunge spaziatura (padding)"
+
+#: page-header/functions/metabox.php:216
+msgid "Add background image"
+msgstr "Aggiungi una immagine di sfondo"
+
+#: page-header/functions/metabox.php:220
+msgid "Parallax effect"
+msgstr "Effetto Parallax"
+
+#: page-header/functions/metabox.php:224
+msgid "Fullscreen"
+msgstr "Schermo intero"
+
+#: page-header/functions/metabox.php:228
+msgid "Vertical center content"
+msgstr "Centra contenuti in verticale"
+
+#: page-header/functions/metabox.php:234
+msgid "Container type"
+msgstr "Tipo di contenitore"
+
+#: page-header/functions/metabox.php:242
+msgid "Text alignment"
+msgstr "Allineamento del Eesto"
+
+#: page-header/functions/metabox.php:251
+msgid "Top/Bottom padding"
+msgstr "Spaziatura (padding) Superiore/Inferiore"
+
+#: page-header/functions/metabox.php:261
+msgid "Background color"
+msgstr "Colore dello sfondo"
+
+#: page-header/functions/metabox.php:266
+msgid "Text color"
+msgstr "Colore del testo"
+
+#: page-header/functions/metabox.php:271
+msgid "Link color"
+msgstr "Colore link"
+
+#: page-header/functions/metabox.php:276
+msgid "Link color hover"
+msgstr "Colore dei link al passaggio del mouse"
+
+#: page-header/functions/metabox.php:285
+msgid "MP4 file"
+msgstr "File MP4"
+
+#: page-header/functions/metabox.php:287 page-header/functions/metabox.php:294
+#: page-header/functions/metabox.php:301
+msgid "Insert Video"
+msgstr "Inserisci video"
+
+#: page-header/functions/metabox.php:288 page-header/functions/metabox.php:295
+#: page-header/functions/metabox.php:302
+msgid "Choose Video"
+msgstr "Scegli il video"
+
+#: page-header/functions/metabox.php:292
+msgid "OGV file"
+msgstr "File OGV"
+
+#: page-header/functions/metabox.php:299
+msgid "WEBM file"
+msgstr "File WEBM"
+
+#: page-header/functions/metabox.php:306
+msgid "Overlay color"
+msgstr "Colore Sovrapposizione"
+
+#: page-header/functions/metabox.php:312
+msgid "Overwrite your site-wide logo/header on this page."
+msgstr ""
+"Sovrascrivere il vostro logo / intestazione a livello di sito in questa "
+"pagina."
+
+#: page-header/functions/metabox.php:319
+msgid "Header / Logo"
+msgstr "Logo / Header"
+
+#: page-header/functions/metabox.php:319
+msgid "Insert Logo"
+msgstr "Inserire Logo"
+
+#: page-header/functions/metabox.php:320
+msgid "Choose Logo"
+msgstr "Scegli Logo"
+
+#: page-header/functions/metabox.php:330
+msgid "Remove Logo"
+msgstr "Rimuovi Logo"
+
+#~ msgid "Page Header Link"
+#~ msgstr "Link dell'imagine della testata"
+
+#~ msgid "Hard Crop"
+#~ msgstr "Ritaglio forzato"
+
+#~ msgid "Image Width"
+#~ msgstr "Larghezza immagine"
+
+#~ msgid "Image Height"
+#~ msgstr "Altezza immagine"
+
+#~ msgid "Fluid"
+#~ msgstr "Fluida "
+
+#~ msgid ""
+#~ "Choose your content padding in pixels. This will add space above and "
+#~ "below your content. (integer only) "
+#~ msgstr ""
+#~ "Selezionare la spaziatura del contenuto in pixels. Questo aggiungerà "
+#~ "dello spazio prima e dopo il tuo contenuto"
+
+#~ msgid "Add Image"
+#~ msgstr "Aggiungi Immagine"
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+#~ msgstr ""
+#~ "C'è una nuova versione disponibile di %1$s . <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">Vedi i dettagli della  versione %3$s </a>."
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+#~ "\">update now</a>."
+#~ msgstr ""
+#~ "C’è una nuova versione di %1$s disponibile. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">Vedi i dettagli della versione %3$s </a> o <a "
+#~ "href=“%4$s”>aggiorna ora</a>."
+
+#~ msgid "You do not have permission to install plugin updates"
+#~ msgstr "Non hai il permesso di installare gli aggiornamenti dei plugin"
+
+#~ msgid "Error"
+#~ msgstr "Errore"
+
+#~ msgid "License failed."
+#~ msgstr "Licenza non riuscita."
+
+#~ msgid "License activated."
+#~ msgstr "Licenza attivata."
+
+#~ msgid "License deactivated."
+#~ msgstr "Licenza disattivata."
+
+#~ msgid "Updates %s"
+#~ msgstr "Aggiornamenti %s"
+
+#~ msgid "Help"
+#~ msgstr "Aiuto"
+
+#~ msgid "License Key"
+#~ msgstr "Chiave Licenza"
+
+#~ msgid "Update"
+#~ msgstr "Aggiorna"
+
+#~ msgid "Add a page header to your blog."
+#~ msgstr "Aggiungi una Testata al tuo Blog"
+
+#~ msgid ""
+#~ "This will only show up on the page you have set as your \"Posts Page\". "
+#~ "To add a page header to specific pages, use the metabox included while "
+#~ "adding your content."
+#~ msgstr ""
+#~ "Questo verrà visualizzato solo nella pagina che è stata impostata come "
+#~ "\"Ultimi Articoli\". Per aggiungere uan testata personalizzata per altre "
+#~ "pagine, utilizzare l'apposito metabox."
+
+#~ msgid "Publish"
+#~ msgstr "Pubblica"
+
+#~ msgid "Save Settings"
+#~ msgstr "Salva impostazioni"
+
+#~ msgid ""
+#~ "Use these options to add a page header to your Blog. Add page headers to "
+#~ "your pages by using the metabox while editing them."
+#~ msgstr ""
+#~ "Utilizzare queste opzioni per aggiungere una testata personalizzata al "
+#~ "tuo Blog. Per la testata delle singole pagine utilizzare l'apporito "
+#~ "metabox nella pagina delle modifiche."
+
+#~ msgid "Image Options"
+#~ msgstr "Opzioni delle immagini"
+
+#~ msgid "Upload an image to use in your page header"
+#~ msgstr "Caricare un'immagine da utilizzare nell'intestazione pagina"
+
+#~ msgid "Content Options"
+#~ msgstr "Opzioni contenuto"
+
+#~ msgid "Add content to your page header"
+#~ msgstr "Aggiungi contenuto alla testata della pagina"
+
+#~ msgid "Link Hover Color"
+#~ msgstr "Colore dei links in modalità :hover"
+
+#~ msgid "Metabox configuration is required to have an ID parameter"
+#~ msgstr "La configurazione del metabox è richiesta per avere un parametro ID"
+
+#~ msgid "Click to toggle"
+#~ msgstr "Clicca per attivare"
+
+#~ msgid "Please Try Again"
+#~ msgstr "Ti preghiamo di riprovare."
+
+#~ msgid "Remove Embed"
+#~ msgstr "Rimozione elementi incorporati (embeds)"
+
+#~ msgid "No oEmbed Results Found for %s. View more info at"
+#~ msgstr "Nessun oEmbed trovato per %s. Maggiori informazioni a"
+
+#~ msgid "Add Group"
+#~ msgstr "Aggiungi gruppo"
+
+#~ msgid "Remove Group"
+#~ msgstr "Rimuovi Gruppo"
+
+#~ msgid "None"
+#~ msgstr "Nessuno"
+
+#~ msgid "Add Row"
+#~ msgstr "Aggiunge riga"
+
+#~ msgid "Remove"
+#~ msgstr "Rimuovi "
+
+#~ msgid "No terms"
+#~ msgstr "Nessun termine"
+
+#~ msgid "Add or Upload Files"
+#~ msgstr "Aggiungi o carica files"
+
+#~ msgid "Add or Upload File"
+#~ msgstr "Aggiungi o carica file"
+
+#~ msgid "File:"
+#~ msgstr "File:"
+
+#~ msgid "Download"
+#~ msgstr "Scarica"
+
+#~ msgid "Clear"
+#~ msgstr "Cancella"
+
+#~ msgid "Default"
+#~ msgstr "Predefinito"
+
+#~ msgid "Select Color"
+#~ msgstr "Seleziona Colore"
+
+#~ msgid "Current Color"
+#~ msgstr "Colore Corrente"
+
+#~ msgid "mm/dd/yy"
+#~ msgstr "gg/mm/aa"
+
+#~ msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+#~ msgstr "Domenica, Lunedì, Martedì, Mercoledì, Giovedì, Venerdì, Sabato"
+
+#~ msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+#~ msgstr "Do, Lu, Ma, Me, Gi, Ve, Sa"
+
+#~ msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+#~ msgstr "Dom, Lun, Mar, Mer, Gio, Ven, Sab"
+
+#~ msgid ""
+#~ "January, February, March, April, May, June, July, August, September, "
+#~ "October, November, December"
+#~ msgstr ""
+#~ "Gennaio, Febbraio, Marzo, Aprile, Maggio, Giugno, Luglio, Agosto, "
+#~ "Settembre, Ottobre, Novembre, Dicembre"
+
+#~ msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+#~ msgstr "Gen,Feb,Mar,Apr,Mag,Giu,Lug,Ago,Set,Ott,Nov,Dic"
+
+#~ msgid "Next"
+#~ msgstr "Prossimo"
+
+#~ msgid "Prev"
+#~ msgstr "Precedente"
+
+#~ msgid "Today"
+#~ msgstr "Oggi"
+
+#~ msgid "Done"
+#~ msgstr "Fatto"
+
+#~ msgid "Choose Time"
+#~ msgstr "Scegli Orario"
+
+#~ msgid "Time"
+#~ msgstr "Orario"
+
+#~ msgid "Hour"
+#~ msgstr "Ore"
+
+#~ msgid "Minute"
+#~ msgstr "Minuti"
+
+#~ msgid "Second"
+#~ msgstr "Secondi"
+
+#~ msgid "Now"
+#~ msgstr "Adesso"
+
+#~ msgid "hh:mm TT"
+#~ msgstr "hh: mm TT"
+
+#~ msgid "Use this file"
+#~ msgstr "Utilizza questo file"
+
+#~ msgid "Select / Deselect All"
+#~ msgstr "Seleziona / De-seleziona tutto"
+
+#~ msgid "Save"
+#~ msgstr "Salva"
+
+#~ msgid "Use image (from image tab) as a background image?"
+#~ msgstr "Utilizzare l'immagine ("
+
+#~ msgid "Add parallax effect to background image?"
+#~ msgstr "Vuoi aggiungere un effessto \"Parallax\" all'immagine di sfondo?"
+
+#~ msgid "Make background image full screen?"
+#~ msgstr "Immagine di sfondo a schermo intero?"
+
+#~ msgid "Center your content vertically?"
+#~ msgstr "Vuoi centrare il tuo contenuto verticalmente?"
+
+#~ msgid "Add to blog excerpt (if no Featured Image is set)"
+#~ msgstr ""
+#~ "Aggiungere al l'estratto del blog (se non è impostata nessuna immagine in "
+#~ "evidenza)"

@@ -1,0 +1,244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Secondary Navigation\n"
+"POT-Creation-Date: 2016-12-21 23:57-0200\n"
+"PO-Revision-Date: 2016-12-22 00:06-0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Last-Translator: Jorge Araújo <artesetedigital@gmail.com>\n"
+"Language: pt_BR\n"
+"X-Poedit-SearchPath-0: langs\n"
+"X-Poedit-SearchPath-1: secondary-nav\n"
+
+#: secondary-nav/functions/customizer/backgrounds.php:15
+#: secondary-nav/functions/customizer/colors.php:16
+#: secondary-nav/functions/customizer/spacing.php:16
+#: secondary-nav/functions/customizer/typography.php:15
+#: secondary-nav/functions/functions.php:105
+#: secondary-nav/functions/functions.php:117
+msgid "Secondary Navigation"
+msgstr "Menu Secundário"
+
+#: secondary-nav/functions/customizer/backgrounds.php:44
+msgid "Navigation"
+msgstr "Menu"
+
+#: secondary-nav/functions/customizer/backgrounds.php:64
+#: secondary-nav/functions/customizer/backgrounds.php:115
+#: secondary-nav/functions/customizer/backgrounds.php:166
+#: secondary-nav/functions/customizer/backgrounds.php:217
+#: secondary-nav/functions/customizer/backgrounds.php:281
+#: secondary-nav/functions/customizer/backgrounds.php:332
+#: secondary-nav/functions/customizer/backgrounds.php:383
+msgid "Repeat"
+msgstr "Repetir"
+
+#: secondary-nav/functions/customizer/backgrounds.php:65
+#: secondary-nav/functions/customizer/backgrounds.php:116
+#: secondary-nav/functions/customizer/backgrounds.php:167
+#: secondary-nav/functions/customizer/backgrounds.php:218
+#: secondary-nav/functions/customizer/backgrounds.php:282
+#: secondary-nav/functions/customizer/backgrounds.php:333
+#: secondary-nav/functions/customizer/backgrounds.php:384
+msgid "Repeat x"
+msgstr "Repetir Horizontalmente"
+
+#: secondary-nav/functions/customizer/backgrounds.php:66
+#: secondary-nav/functions/customizer/backgrounds.php:117
+#: secondary-nav/functions/customizer/backgrounds.php:168
+#: secondary-nav/functions/customizer/backgrounds.php:219
+#: secondary-nav/functions/customizer/backgrounds.php:283
+#: secondary-nav/functions/customizer/backgrounds.php:334
+#: secondary-nav/functions/customizer/backgrounds.php:385
+msgid "Repeat y"
+msgstr "Repetir Verticalmente"
+
+#: secondary-nav/functions/customizer/backgrounds.php:67
+#: secondary-nav/functions/customizer/backgrounds.php:118
+#: secondary-nav/functions/customizer/backgrounds.php:169
+#: secondary-nav/functions/customizer/backgrounds.php:220
+#: secondary-nav/functions/customizer/backgrounds.php:284
+#: secondary-nav/functions/customizer/backgrounds.php:335
+#: secondary-nav/functions/customizer/backgrounds.php:386
+msgid "No Repeat"
+msgstr "Não Repetir"
+
+#: secondary-nav/functions/customizer/backgrounds.php:95
+msgid "Navigation Item"
+msgstr "Menu Item"
+
+#: secondary-nav/functions/customizer/backgrounds.php:146
+msgid "Navigation Item Hover"
+msgstr "Menu Item Hover"
+
+#: secondary-nav/functions/customizer/backgrounds.php:197
+msgid "Navigation Item Current"
+msgstr "Menu Item Ativo"
+
+#: secondary-nav/functions/customizer/backgrounds.php:232
+#: secondary-nav/functions/customizer/colors.php:96
+msgid "Secondary Sub-Navigation"
+msgstr "Submenu do Menu Secundário"
+
+#: secondary-nav/functions/customizer/backgrounds.php:261
+msgid "Sub-Navigation Item"
+msgstr "Sub-Menu Item"
+
+#: secondary-nav/functions/customizer/backgrounds.php:312
+msgid "Sub-Navigation Item Hover"
+msgstr "Sub-Menu Item Hover"
+
+#: secondary-nav/functions/customizer/backgrounds.php:363
+msgid "Sub-Navigation Item Current"
+msgstr "Sub-Menu Item Ativo"
+
+#: secondary-nav/functions/customizer/colors.php:28
+#: secondary-nav/functions/customizer/colors.php:108
+msgid "Background"
+msgstr "Cor de Fundo"
+
+#: secondary-nav/functions/customizer/colors.php:34
+#: secondary-nav/functions/customizer/colors.php:114
+msgid "Text"
+msgstr "Texto"
+
+#: secondary-nav/functions/customizer/colors.php:40
+#: secondary-nav/functions/customizer/colors.php:120
+msgid "Background Hover"
+msgstr "Cor de Fundo Hover"
+
+#: secondary-nav/functions/customizer/colors.php:46
+#: secondary-nav/functions/customizer/colors.php:126
+msgid "Text Hover"
+msgstr "Texto Hover"
+
+#: secondary-nav/functions/customizer/colors.php:52
+#: secondary-nav/functions/customizer/colors.php:132
+msgid "Background Current"
+msgstr "Cor de Fundo Ativo"
+
+#: secondary-nav/functions/customizer/colors.php:58
+#: secondary-nav/functions/customizer/colors.php:138
+msgid "Text Current"
+msgstr "Texto Ativo"
+
+#: secondary-nav/functions/customizer/spacing.php:35
+msgid "Secondary Menu Items"
+msgstr "Menu Secundário Itens"
+
+#: secondary-nav/functions/customizer/spacing.php:57
+msgid "Left/Right Spacing"
+msgstr "Esquerda/Direita Espaçamento"
+
+#: secondary-nav/functions/customizer/spacing.php:80
+msgid "Height"
+msgstr "Altura"
+
+#: secondary-nav/functions/customizer/spacing.php:103
+msgid "Sub-Menu Item Height"
+msgstr "Sub-menu - Altura do Item"
+
+#: secondary-nav/functions/customizer/spacing.php:104
+msgid "The top and bottom spacing of sub-menu items."
+msgstr "Espaçamento Superior e Inferior dos itens do sub-menu"
+
+#: secondary-nav/functions/customizer/typography.php:38
+msgid "Secondary navigation"
+msgstr "Menu Secundário"
+
+#: secondary-nav/functions/customizer/typography.php:105
+#: secondary-nav/functions/customizer/typography.php:132
+msgid "Font weight"
+msgstr "Peso da Fonte"
+
+#: secondary-nav/functions/customizer/typography.php:158
+#: secondary-nav/functions/customizer/typography.php:178
+msgid "Text transform"
+msgstr "Transformar Texto"
+
+#: secondary-nav/functions/customizer/typography.php:204
+msgid "Font size"
+msgstr "Tamanho da Fonte"
+
+#: secondary-nav/functions/functions.php:10
+msgid "Secondary Menu"
+msgstr "Menu Secundário"
+
+#: secondary-nav/functions/functions.php:135
+msgid "Mobile Menu Label"
+msgstr "Identificador do Menu Mobile"
+
+#: secondary-nav/functions/functions.php:162
+msgid "Navigation Layout"
+msgstr "Layout do Menu"
+
+#: secondary-nav/functions/functions.php:165
+msgid "Fluid / Full Width"
+msgstr "Fluído / Largura Total"
+
+#: secondary-nav/functions/functions.php:166
+msgid "Contained"
+msgstr "Largura Fixa"
+
+#: secondary-nav/functions/functions.php:194
+msgid "Navigation Position"
+msgstr "Posição do Menu"
+
+#: secondary-nav/functions/functions.php:197
+msgid "Below Header"
+msgstr "Abaixo do Cabeçalho"
+
+#: secondary-nav/functions/functions.php:198
+msgid "Above Header"
+msgstr "Acima do Cabeçalho"
+
+#: secondary-nav/functions/functions.php:199
+msgid "Float Right"
+msgstr "Flutuar à Direita"
+
+#: secondary-nav/functions/functions.php:200
+msgid "Left Sidebar"
+msgstr "Sidebar Esquerdo"
+
+#: secondary-nav/functions/functions.php:201
+msgid "Right Sidebar"
+msgstr "Sidebar Direito"
+
+#: secondary-nav/functions/functions.php:202
+msgid "No Navigation"
+msgstr "Sem Menu"
+
+#: secondary-nav/functions/functions.php:230
+msgid "Navigation Alignment"
+msgstr "Alinhamento do Menu"
+
+#: secondary-nav/functions/functions.php:233
+msgid "Left"
+msgstr "Esquerda"
+
+#: secondary-nav/functions/functions.php:234
+msgid "Center"
+msgstr "Centralizado"
+
+#: secondary-nav/functions/functions.php:235
+msgid "Right"
+msgstr "Direita"
+
+#: secondary-nav/functions/ie.php:17
+msgid "Warning: This will delete your settings."
+msgstr "Atenção: Isso irá excluir as configurações"
+
+#: secondary-nav/functions/ie.php:19
+msgid "Delete Secondary Navigation Customizer Settings"
+msgstr "Excluir Configurações de Personalização do Menu Secundário"
+
+#: secondary-nav/functions/ie.php:55
+msgid "Export Secondary Navigation Customizer Settings"
+msgstr "Exportar Configurações de Personalização do Menu Secundário"

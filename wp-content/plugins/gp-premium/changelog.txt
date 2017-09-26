@@ -1,0 +1,266 @@
+== changelog ==
+
+= 1.2.94 =
+* Menu Plus: Fix contained sticky menu with no transition + floating bug
+
+= 1.2.93 =
+* Backgrounds: Fix 100% width option
+* Blog: Change Post Image label to Featured Image
+* Blog: Fully remove featured image if it's set to hide
+* Colors: Add transparency slider to all background elements
+* Colors: Remove defaults and dynamic CSS functions - the GP theme handles this
+* Colors: Add new generate_default_color_palettes filter to set up default color palettes
+* Copyright: Use new copyright filter if possible
+* Disabe Elements: Hide mobile header if navigation is disabled
+* Menu Plus: Remove classie.js
+* Menu Plus: Add .navigation-stick class to all sticky menu transitions
+* Menu Plus: Prevent slide-out navigation jump on desktop
+* Menu Plus: Change Sticky Effect label to Sticky Transition
+* Menu Plus: Clean up dynamic CSS
+* Menu Plus: Add .navigation-logo class to the navigation logo
+* Menu Plus: Rebuild and simplify navigation logo CSS
+* Menu Plus: Add live preview to navigation logo height
+* Menu Plus: Add new generate_navigation_logo to the Navigation Logo URL
+* Menu Plus: Fix mixing up of slide-out and search icon when sticky and floating left/right
+* Page Header: Add parallax speed filter - generate_page_header_parallax_speed
+* Page Header: Make sure wp.media javascript object exist to avoid potential JS errors
+* Page Header: Make parallax work when page header is set to contained width
+* Page Header: Add generate_metabox_capability to Page Header meta box
+* Page Header: Add new option to overwrite Navigation Logo per page
+* Page Header: Fix full screen page header height when content is longer than the screen
+* Secondary Nav: Change Navigation Position to Navigation Location
+* Secondary Nav: Add defaults to the style.css and only add dynamic CSS if needed
+* Secondary Nav: Improve mobile menu CSS
+* Sections: Add new Section ID field
+* Spacing: Fix instant preview for masonry and columns
+* Spacing: Add size slider to the separator options
+* Spacing: Add mobile content padding option
+* Spacing: Improve live previewing performance in the Customizer
+* Spacing: Remove defaults and dynamic CSS functions - the GP theme handles this
+* Spacing: Set left and right footer widget area padding if it's set to 0
+* Spacing: Clean up sidebar width code
+* Spacing: Change range slider style to fit core WP style
+* Typography: Move mobile font size options into their respective sections
+* Typography: Remove defaults and dynamic CSS functions - the GP theme handles this
+* Typography: Change generate_display_google_fonts() function to generate_enqueue_google_fonts()
+* Typography: Change range slider style to fit core WP style
+* Change license key field from text to password
+* Czech translation updated
+* German translation updated
+* Brazilian translation added
+* Italian translated updated
+
+= 1.2.92 =
+* Blog: Fix category title and load more alignment while using masonry
+* Blog: Fix masonry spacing on mobile
+* Blog: Simplify masonry spacing
+* Blog: Simplify columns spacing
+* Menu Plus: Fix alignment jump when browser is zoomed in and resized down to 768px
+* Menu Plus: Add generate_logo_title filter to sticky logo and mobile header logo
+* Menu Plus: Add spacing to the menu logo when the inner navigation is set to full width
+* Menu Plus: Fix navigation search issue with no transition sticky menu
+* Menu Plus: Don't float mobile header navigation if no logo is set
+* Typography: Adjust typography name sanitization function name to avoid errors with old GP versions
+* Typography: Remove parameter from generate_display_google_fonts to avoid warning with child theme generators
+* Typography: Add body line height option
+* Typography: Add paragraph margin option
+* Typography: Reduce copyright/footer font size default to 14px
+* Typography: Add reset button to all size sliders
+* Secondary Nav: Remove CSS which stops floating navigation at 1024px
+* Secondary Nav: Fix jump when removing navigation in the Customizer
+* Secondary Nav: New option: Inner navigation width
+* Secondary Nav: Add reset button to font size slider
+* Secondary Nav: Allow transitions on menu items
+* Sections: Fix bug where error would happen if the user isn't using at least WordPress 4.5
+* Sections: Remove GP theme grid dependency in admin
+* Sections: Allow oembed in section content
+* Sections: Use jQuery.on() instead of delegate()
+* Sections: Remove unnecessary files
+* Spacing: Prevent warning caused by wrong version constant
+* Page Header: New filter: generate_get_blog_page_header - makes it possible to set the blog page header under different conditions
+* Page Header: Improve full height page header functionality on mobile/orientation change
+* Page Header: Remove fixed background attachment from parallax background image to help preserve image ratio
+* Add prompt to add license key in Plugins area if it isn't activated and updates are available
+* Move all language files into the /langs/ folder
+* Reduce length of some text domains to avoid updating issue with some servers
+* Chinese translations added - thanks Alfred!
+* Portuguese translation added - thanks Alvaro!
+* Russian translations updated - thanks Alex!
+* German translations updated - thanks Daniel!
+
+= 1.2.91 =
+* Menu Plus: Fix bug where navigation logo wasn't displaying when effect is set to None
+* Menu Plus: Fix bug where mobile header javascript was showing up when it shouldn't
+* Sections: Add Shortcodes Ultimate compatibility
+* Page Header: Fix Italian translation
+* Page Header: Only show metabox on public post types
+* Page Header: Fully re-design metabox
+* Page Header: Add padding unit option (px or %)
+* Blog: Make excerpt length value update immediately in Customizer
+* Blog: Improve masonry functionality
+* Russian translations updated - massive thanks to Alexey!
+
+= 1.2.90 =
+* Prevent direct access to all files
+* All Czech translations updated (thanks Ondrej!)
+* Copyright: Improve Customizer experience
+* Sections: Completely re-designed and re-built Sections
+* Sections: Section content is now saved into your default editor on update/save. 
+	- This prevents theme-lock, meaning your content will still exist even if you remove Sections.
+* Sections: Send to default editor button removed as the before removes the need for it
+* Sections: Add bottom & top padding unit option (px or %)
+* Page Header: Add generate_page_header_video_loop filter to disable looping of the page header video
+* Page Header: Add option to remove the page header from single posts
+* Page Header: Make number only inputs only accepts numbers
+* Page Header: Force page header above the content if merged option is set
+* Page Header: Disable automatic check for background video posters if no image is set
+* Page Header: Use featured image as background image if no page header image is set
+* Spacing: Remove duplicate menu item height CSS
+* Spacing: Make inputs number only
+* Spacing: All options are now instant preview
+* Blog: Make post image sizes and excerpt length inputs number only
+* Blog: Force full width masonry items on mobile
+* Blog: Show Blog panel even when we're not viewing the blog in the Customizer
+* Menu Plus: Reduce space between menu toggle and search icon on mobile with menu logo enabled
+* Menu Plus: Show navigation logo option and navigation logo position option even if sticky navigation isn't enabled
+* Menu Plus: Optimize javascript and put it all in files instead of in wp_footer
+* Menu Plus: Allow navigation logo to show in sidebar navigation causing a sidebar logo effect
+* Menu Plus: Float mobile header to the right on RTL installations
+* Typography: Add new filter: generate_typography_variants
+* Typography: Make font size, weight and decoration instant preview
+* Typography: Only show top 200 popular Google Fonts in Customizer (increases Customizer performance)
+* Typography: generate_number_of_fonts filter added so you can choose how many fonts to include in the Customizer list
+* Typography: Remove 2 database queries
+* Typography: Add Segoe UI font to default list
+* Typography: Revamp how Google fonts get their category and variants (increase front end performance)
+* Colors: Make all colors instant preview
+* Secondary Navigation: Colors are now instant preview
+* Secondary Navigation: Typography font weight, transform and size are now instant preview
+* Secondary Navigation: Layout options are now instant preview
+* Hooks: Disable spell check in hook textareas
+* Hooks: Fix floating box issue on RTL installations
+* Backgrounds: Use default WordPress image uploader customizer control
+* Customizer: All Customizer controls are now rendered in javascript/json - big +1 for performance
+
+= 1.2.89 =
+* Fix translations
+* GP Hooks: Add new filter: generate_hooks_capability - change the capability for users who can edit hooks
+* Disable Elements: Remove metabox from attachment post type
+* Page Header: Fix issue where merged header navigation colors weren't working
+* Page Header: Remove metabox from the attachment post type
+* Menu Plus: Fix sticky menu not unsticking if it's the very top element
+
+= 1.2.88 =
+* GP Premium: Cut down unnecessary folders to prevent update failures on some servers
+* Page Header: Add a new option in Advanced Settings: Place content behind header (sliders etc..)
+* Page Header: Fix header and navigation alignment in vertical centered page header when contained
+* Sections: Rename template file to shorter name
+* Typography: Rename control file to shorter name
+* Copyright: Fix/improve live preview of copyright in the Customizer
+* Blog: Show the read more label setting for both excerpt and full content settings
+* Menu Plus: Fix sticky menu stopping at the bottom of the Page Header
+* Menu Plus: Improve sticky menu experience
+* Menu Plus: Float sticky menu logo right when navigation is set to float left
+* Secondary Navigation: Adjust z-index
+
+= 1.2.87 =
+* Increase database sanitization/escaping and harden security throughout all add-ons
+* Backgrounds: Place options into sections inside Background Images panel
+* Blog: Add new filter to set the column count: generate_blog_get_column_count
+* Blog: Add title tag to read more link
+* Secondary Navigation: Fix spacing issue with dropdown menu arrow
+* Secondary Navigation: Remove Secondary Navigation panel
+* Secondary Navigation: Move sections into their applicable panels
+* Secondary Navigation: Add RTL language support
+* Spacing: Place options into sections inside Spacing panel
+* Spacing: Add RTL support
+* Copyright: Move copyright textarea into the Customizer
+* Copyright: Swedish translation added - thanks Jamal!
+* Page Header: Fix logo setting to work with new WordPress 4.5 custom_logo feature
+* Page Header: Vastly improved merged header option
+* Page Header: Move Blog Page Header panel into the Blog panel
+* Sections: Fix bug where first paragraph wasn't being correct wrapped in <p> tag
+* Menu Plus: Move options into Layout panel
+
+= 1.2.86 =
+* Blog: Allow resizer to upscale images
+* Page Header: Allow resizer to upscale images
+* Sections: Fix issue with images enlarging in Sections
+
+= 1.2.85 =
+* Blog: Fix cropping when Photon is being used
+* Page Header: Fix cropping when Photon is being used
+
+= 1.2.84 =
+* Blog: Fix bug where two columns appear briefly at 768px width
+* Blog: Change image resizer to more lightweight option
+* Blog: Fix uneven spacing at the bottom of blog posts in columns
+* Sections: Apply the_content filter once to the whole sections page to avoid multiple sharing icons being added by plugins etc..
+* Page Header: Change image resizer to more lightweight option
+* Page Header: Add apply image sizes button to the Blog Page Header crop options
+* Translations: Czech translations updated - thanks Ondrej!
+* Translations: Polish translations updated - thanks Krzysztof!
+
+= 1.2.83 =
+* Blog: Fix bug where full width post wasn't displaying in columns
+* Blog: Add a check for the blog content customizer control in the theme to prevent warning
+* Blog: Add button to apply post image sizes in the Customizer to prevent unnecessary images being created
+
+= 1.2.82 =
+* Blog: Improve masonry width logic
+* Blog: Improve proportional image resizing
+* Blog: Switch to a better image resizer
+* Spacing: Add spacing for dropdown menu toggle and mobile items in the navigation
+* Colors: Fix text-domain for "Colors" panel to allow it to be translated
+* Colors: Add focus style to buttons
+* Sections: Replace the_content filter with Sections specific filter to avoid plugins adding icons and other content into each section
+* Page Header: Add background image as the video placeholder if it can't be loaded (mobile devices etc..)
+* Page Header: Switch to a better image resizer
+* Typography: Adjust label size in Typography sections in Customizer for longer translations
+* Polish translations added - thanks, Paul!
+
+= 1.2.81 =
+* Page Header: Fix javascript bug in Safari
+
+= 1.2.80 =
+* Page Header: Fix iOS bug with parallax background image
+* Page Header: Move "Appearance > Blog Page Header" to "Customize > Page Header > Blog"
+* Page Header: Adjust proportional resizing
+* Page Header: Add generate_page_header_featured_image filter to force usage of the featured image over the custom field
+* Page Header: Add option to merge site header and page header with a transparent navigation
+* Page Header: Add option to include a video background in your page header
+* Page Header: Add option to replace your logo/header on individual pages/posts
+* Page Header: Improve metabox saving to prevent empty values in the database
+* Page Header: Minify parallax JS
+* Typography: Add input fields to font sizes to manually adjust them without slider
+* Typography: Adjust separators in Customizer
+* Typography: Add mobile font sizes for the main title, H1 and H2
+* Menu Plus: Adjust navigation width with container width in Customizer
+* Menu Plus: Fix sticky navigation spacer width
+* Menu Plus: Navigation float right aligns sticky menu items to the right
+* Menu Plus: Add new dropdown arrows to slideout menu
+* Menu Plus: New Feature: Mobile Header
+* Menu Plus: Separate options into panels
+* Menu Plus: Close slideout menu with escape key
+* Secondary Nav: Fix separator spacing below secondary navigation in the widget area
+* Secondary Nav: Add support for navigation click dropdown
+* Secondary Nav: Minify CSS and JS
+* Blog: Fix category/author page header when columns are set
+* Blog: Remove generate_blog_activate_masonry function and bundle it in with generate_blog_get_masonry function
+* Blog: Turn off masonry if we're on WooCommerce search results
+* Blog: Turn off columns if we're on WooCommerce search results
+* Blog: Minify CSS and JS
+* Colors: Add focus styles to navigation
+* Backgrounds: Add separators in Customizer
+* Backgrounds: Fix doubling up background images in the content when One Container is set
+* Spacing: Add separators in Customizer
+* Sections: Improve editor handling when visual editor is turned off
+* Sections: Use excerpt metabox on archives/blog if Sections is in use in single post
+* Sections: Fix bug where archives/blog loses layout if most recent post is using Sections
+* Sections: Minify CSS and JS
+* Disable Elements: Improve metabox saving to prevent empty values in the database
+* Italian translations added for all add-ons - thank you Roberto!
+* German translations updated for all add-ons - thank you Daniel!
+
+== Changelog archives ==
+* See more at https://generatepress.com/category/development/

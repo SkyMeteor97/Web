@@ -1,0 +1,57 @@
+#featured-lamda {
+	overflow: auto;
+	margin-bottom: 20px;
+	.featured-thumb {
+		position: relative;
+	}
+	
+	h2 {
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		background: @accent;
+		padding: 20px 10px;
+		margin-bottom: 0;
+		font-weight: 300;
+		font-size: 13px;
+		text-transform: uppercase;
+		color: @onaccent;
+		.transform(translateY(110%));
+		@media screen and (max-width: 767px) {
+			.transform(translateY(0%));
+		}
+		.transition(0.5s all ease);
+	}
+	p.description {
+		position: absolute;
+		top: 10px;
+		padding: 10px;
+		color: white;
+		font-size: 15px;
+		text-decoration: 1px 0 black;
+		display: block;
+		.transform(translateY(40%));
+		@media screen and (max-width: 767px) {
+			.transform(translateY(0%));
+			opacity: 1;
+		}
+		.transition(0.7s all ease);
+		opacity: 0;
+	}
+	
+	.lamda-wrapper {
+		padding: 5px;
+		overflow: hidden;
+		&:hover {
+			h2 {
+				.transform(translateY(0%));
+			}
+			p.description {
+				opacity: 1;
+				.transform(translateY(0%));
+			}
+		}
+	}
+	
+}

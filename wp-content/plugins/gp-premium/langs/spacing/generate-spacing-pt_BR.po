@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Spacing\n"
+"POT-Creation-Date: 2016-12-22 23:03-0200\n"
+"PO-Revision-Date: 2016-12-22 23:46-0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Last-Translator: Jorge Araújo <artesetedigital@gmail.com>\n"
+"Language: pt_BR\n"
+"X-Poedit-SearchPath-0: langs\n"
+"X-Poedit-SearchPath-1: spacing\n"
+
+#: spacing/functions/content-spacing.php:10
+msgid "Content"
+msgstr "Conteúdo"
+
+#: spacing/functions/content-spacing.php:29
+msgid "Content Padding"
+msgstr "Conteúdo - Enchimento"
+
+#: spacing/functions/content-spacing.php:52
+#: spacing/functions/footer-spacing.php:52
+#: spacing/functions/footer-spacing.php:163
+#: spacing/functions/header-spacing.php:51
+#: spacing/functions/sidebar-spacing.php:52
+msgid "Top"
+msgstr "Topo"
+
+#: spacing/functions/content-spacing.php:76
+#: spacing/functions/footer-spacing.php:76
+#: spacing/functions/footer-spacing.php:187
+#: spacing/functions/header-spacing.php:75
+#: spacing/functions/sidebar-spacing.php:76
+msgid "Right"
+msgstr "Direita"
+
+#: spacing/functions/content-spacing.php:100
+#: spacing/functions/footer-spacing.php:100
+#: spacing/functions/footer-spacing.php:211
+#: spacing/functions/header-spacing.php:99
+#: spacing/functions/sidebar-spacing.php:100
+msgid "Bottom"
+msgstr "Inferior"
+
+#: spacing/functions/content-spacing.php:124
+#: spacing/functions/footer-spacing.php:124
+#: spacing/functions/footer-spacing.php:235
+#: spacing/functions/header-spacing.php:123
+#: spacing/functions/sidebar-spacing.php:124
+msgid "Left"
+msgstr "Esquerda"
+
+#: spacing/functions/content-spacing.php:147
+msgid "Separating Space"
+msgstr "Separando Espaço"
+
+#: spacing/functions/content-spacing.php:151
+msgid ""
+"The spacing between elements when \"Content Layout\" is set to \"Separate "
+"Containers\"."
+msgstr ""
+"O espaçamento entre elementos quando \"Layout do Conteúdo\" é definido "
+"como \"Containers Separados\"."
+
+#: spacing/functions/footer-spacing.php:10
+msgid "Footer"
+msgstr "Rodapé"
+
+#: spacing/functions/footer-spacing.php:29
+msgid "Footer Widget Area Padding"
+msgstr "Rodapé - Enchimento das Áreas de Widgets"
+
+#: spacing/functions/footer-spacing.php:140
+msgid "Footer Padding"
+msgstr "Rodapé - Enchimento"
+
+#: spacing/functions/functions.php:63
+msgid "Spacing"
+msgstr "Espaçamento"
+
+#: spacing/functions/functions.php:64
+msgid "Change the spacing for various elements using pixels."
+msgstr "Altere o espaçamento para vários elementos usando pixels."
+
+#: spacing/functions/header-spacing.php:9
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: spacing/functions/header-spacing.php:28
+msgid "Header Padding"
+msgstr "Cabeçalho - Enchimento"
+
+#: spacing/functions/ie.php:18
+msgid "Warning: This will delete your settings."
+msgstr "Atenção: Isso ira apagar suas configurações."
+
+#: spacing/functions/ie.php:20
+msgid "Delete Spacing Customizer Settings"
+msgstr "Deletar Configurações de Espaçamento"
+
+#: spacing/functions/ie.php:57
+msgid "Export Spacing Customizer Settings"
+msgstr "Exportar Configurações de Espaçamento"
+
+#: spacing/functions/navigation-spacing.php:10
+msgid "Primary Navigation"
+msgstr "Menu Primário"
+
+#: spacing/functions/navigation-spacing.php:29
+msgid "Primary Menu Items"
+msgstr "Menu Primário - Itens"
+
+#: spacing/functions/navigation-spacing.php:51
+msgid "Left/Right Spacing"
+msgstr "Esquerda/Direita Espaçamento"
+
+#: spacing/functions/navigation-spacing.php:74
+msgid "Height"
+msgstr "Altura"
+
+#: spacing/functions/navigation-spacing.php:97
+msgid "Sub-Menu Item Height"
+msgstr "Altura do Item do Submenu"
+
+#: spacing/functions/navigation-spacing.php:98
+msgid "The top and bottom spacing of sub-menu items."
+msgstr "Espaçamento superior e inferior dos itens do submenu"
+
+#: spacing/functions/sidebar-spacing.php:10
+msgid "Sidebars"
+msgstr "Sidebars"
+
+#: spacing/functions/sidebar-spacing.php:29
+msgid "Widget Padding"
+msgstr "Widget - Enchimento"
+
+#: spacing/functions/sidebar-spacing.php:154
+msgid "Left Sidebar Width"
+msgstr "Largura da Sidebar Esquerda"
+
+#: spacing/functions/sidebar-spacing.php:157
+#: spacing/functions/sidebar-spacing.php:195
+msgid "15%"
+msgstr "15%"
+
+#: spacing/functions/sidebar-spacing.php:158
+#: spacing/functions/sidebar-spacing.php:196
+msgid "20%"
+msgstr "20%"
+
+#: spacing/functions/sidebar-spacing.php:159
+#: spacing/functions/sidebar-spacing.php:197
+msgid "25%"
+msgstr "25%"
+
+#: spacing/functions/sidebar-spacing.php:160
+#: spacing/functions/sidebar-spacing.php:198
+msgid "30%"
+msgstr "30%"
+
+#: spacing/functions/sidebar-spacing.php:161
+#: spacing/functions/sidebar-spacing.php:199
+msgid "35%"
+msgstr "35%"
+
+#: spacing/functions/sidebar-spacing.php:162
+#: spacing/functions/sidebar-spacing.php:200
+msgid "40%"
+msgstr "40%"
+
+#: spacing/functions/sidebar-spacing.php:163
+#: spacing/functions/sidebar-spacing.php:201
+msgid "45%"
+msgstr "45%"
+
+#: spacing/functions/sidebar-spacing.php:164
+#: spacing/functions/sidebar-spacing.php:202
+msgid "50%"
+msgstr "50%"
+
+#: spacing/functions/sidebar-spacing.php:192
+msgid "Right Sidebar Width"
+msgstr "Largura da Sidebar Direita"

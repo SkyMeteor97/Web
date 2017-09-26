@@ -1,0 +1,98 @@
+ChangeLog
+=========
+Version 1.0.3
+
+    i) Added 2 new blog layout.
+    ii) Added 2 new featured post section.
+    iii) Added 4 new social icons.
+    iv) Added typography option for post/page and site title description.
+    v) File structure switched to new framework.
+    vi) Fixed social icons issues on using mobile screen.
+
+Version 1.0.2
+
+	i) Fixed issue when Wrong Thumbnail size appear if WC not installed.
+	ii) Updated the Footer links and Theme Credits
+
+Version 1.0.1
+
+	i) WooCommerce 3 Fixes.
+
+
+Version 1.0.0.9	
+
+	i) Fixed Issues with improper logo sizes.
+
+Version 1.0.0.8
+
+	i) Removed Duplicacy of Fonts.
+
+Version 1.0.0.7
+
+	i) Footer link now nofollow.
+
+Version 1.0.0.6
+
+	i) Deleted Languages folder for WPORG implementation.
+	ii) Fixed issues when user adds custom icons, by escaping properly.
+
+Version 1.0.0.5
+
+	i) Fixed Icon Issues, on using large menus.
+	ii) Added Upgrade Link.
+
+Version 1.0.0.4
+
+	i) Re-Fixed Scrolling issues.
+	ii) Comment Text Not Readable. Fixed.
+
+Version 1.0.0.3
+
+	i) Fixed Endless Scrolling When Featured Products are Enabled.
+
+Version 1.0.0.2
+
+	i) Fixed Major Bug related to WooCommerce Products
+
+Version 1.0.0.1
+
+	i) Fixed Auto Adjustment of Slider Height.
+	ii) Fixed Footer Spacing.
+
+Version 1.0
+
+	i) Fixed Major Bug with Theme logo.
+
+Version 0.95
+
+	i) Added Custom style to Customizer.
+	ii) Fixed Translation related bugs.
+	iii) Improved Comment readability.
+	iv) Add Unminified Modernizr.
+	v) Sanitization fixes.
+	vi) Other Minor Fixes.
+	
+
+Version 0.94 (Pre Release)
+
+	i) Only single setting to Disable Header text.
+	ii) Fixed Logo.
+
+Version 0.93 (Pre Release)
+
+	i) Core Custom Logo Feature Added
+	ii) Prefixed Functions/Classes
+	
+Version 0.92 (Pre Release)
+	
+	i) Added Custom Functions for Excerpts
+	ii) Layout Issues
+	iii) Other Minor Fixes.
+
+Version 0.91
+
+	i) Pre Release Bug Fixes.
+	
+Version 0.9
+
+	i) Initial Release.

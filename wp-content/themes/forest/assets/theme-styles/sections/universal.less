@@ -1,0 +1,85 @@
+.body-font {
+  font-family: "Lato", sans-serif;
+}
+.title-font {
+  font-family: "Lato", sans-serif;
+}
+
+body {
+  .body-font;
+  background: @background;
+  word-wrap: break-word;
+}
+.mega-container {
+  background: @background;
+  max-width: 1170px;
+  margin: auto;
+  margin-top: 20px;
+  overflow: visible;
+}
+a {
+  color: @accent;
+  cursor: pointer;
+  &:hover {
+    text-decoration: none;
+    color: @accent;
+  }
+}
+.container {
+  margin: auto;
+}
+.panel {
+  background: none;
+}
+
+/* sections titles */
+.section-title {
+  font-weight: normal;
+  color: @content;
+  font-size: 18px;
+  margin-bottom: 20px;
+  @media screen and (max-width: 991px) {
+    margin-top: 20px;
+  }
+  &:after {
+    content: "";
+    display: block;
+    width: 30px;
+    height: 3px;
+    margin-top: 8px;
+    background: darken(@background,15%);
+  }
+}
+
+
+#content {
+  margin-top: 30px;
+}
+#infinite-handle {
+  text-align: center;
+  margin-bottom: 40px;
+  margin-top: 40px;
+  width: 100%;
+  clear: both;
+  span { background: fade(black, 0%); }
+  span button, span button:hover {
+    background: darken(@background,10%);
+    box-shadow: none;
+    font-size: 15px;
+    font-weight: 300;
+    color: black;
+    text-shadow: none;
+    border-radius: 0px;
+    border-bottom: solid 2px darken(@background,20%);
+    padding: 5px 10px;
+    outline: none;
+  }
+}
+/* infinite Loader */
+span.infinite-loader .spinner {
+  left: 50% !important;
+}
+.infinity-end.neverending #main {
+  margin-bottom: 100px;
+}
+

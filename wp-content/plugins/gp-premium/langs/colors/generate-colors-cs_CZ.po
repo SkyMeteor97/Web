@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Colors\n"
+"POT-Creation-Date: 2017-01-08 11:01+0100\n"
+"PO-Revision-Date: 2017-01-08 11:01+0100\n"
+"Last-Translator: Michal Janata <mjanata@gmail.com>\n"
+"Language-Team: Michal Janata <mjanata@gmail.com>\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: colors/functions/functions.php:85
+msgid "Colors"
+msgstr "Barvy"
+
+#: colors/functions/functions.php:97
+msgid "Header"
+msgstr "Hlavička"
+
+#: colors/functions/functions.php:109 colors/functions/functions.php:187
+#: colors/functions/functions.php:265 colors/functions/functions.php:342
+#: colors/functions/functions.php:462 colors/functions/functions.php:534
+#: colors/functions/functions.php:708
+msgid "Background"
+msgstr "Pozadí"
+
+#: colors/functions/functions.php:115 colors/functions/functions.php:193
+#: colors/functions/functions.php:271 colors/functions/functions.php:348
+#: colors/functions/functions.php:468 colors/functions/functions.php:540
+#: colors/functions/functions.php:714
+msgid "Text"
+msgstr "Text"
+
+#: colors/functions/functions.php:121 colors/functions/functions.php:354
+#: colors/functions/functions.php:474 colors/functions/functions.php:546
+#: colors/functions/functions.php:720
+msgid "Link"
+msgstr "Odkaz"
+
+#: colors/functions/functions.php:127 colors/functions/functions.php:360
+#: colors/functions/functions.php:480 colors/functions/functions.php:552
+#: colors/functions/functions.php:726
+msgid "Link Hover"
+msgstr "Odkaz při přejetí myší"
+
+#: colors/functions/functions.php:133
+msgid "Site Title"
+msgstr "Název webu"
+
+#: colors/functions/functions.php:139
+msgid "Tagline"
+msgstr "Popis webu"
+
+#: colors/functions/functions.php:175
+msgid "Primary Navigation"
+msgstr "Primární navigace"
+
+#: colors/functions/functions.php:199 colors/functions/functions.php:277
+msgid "Background Hover"
+msgstr "Pozadí při přejetí myší"
+
+#: colors/functions/functions.php:205 colors/functions/functions.php:283
+msgid "Text Hover"
+msgstr "Text při přejetí myší"
+
+#: colors/functions/functions.php:211 colors/functions/functions.php:289
+msgid "Background Current"
+msgstr "Pozadí aktuální položky"
+
+#: colors/functions/functions.php:217 colors/functions/functions.php:295
+msgid "Text Current"
+msgstr "Text aktuální položky"
+
+#: colors/functions/functions.php:253
+msgid "Primary Sub-Navigation"
+msgstr "Primární sub-navigace"
+
+#: colors/functions/functions.php:330
+msgid "Content"
+msgstr "Obsah"
+
+#: colors/functions/functions.php:366
+msgid "Content Title"
+msgstr "Název obsahu"
+
+#: colors/functions/functions.php:372
+msgid "Blog Post Title"
+msgstr "Název příspěvku blogu"
+
+#: colors/functions/functions.php:378
+msgid "Blog Post Title Hover"
+msgstr "Název příspěvku blogu při přejetí myší"
+
+#: colors/functions/functions.php:384
+msgid "Entry Meta Text"
+msgstr "Textové meta položky"
+
+#: colors/functions/functions.php:390
+msgid "Entry Meta Links"
+msgstr "Odkazové meta položky"
+
+#: colors/functions/functions.php:396
+msgid "Entry Meta Links Hover"
+msgstr "Odkazové meta položky při přejetí myší"
+
+#: colors/functions/functions.php:402
+msgid "Heading 1 (H1) Color"
+msgstr "Barva nadpisu 1 (H1)"
+
+#: colors/functions/functions.php:408
+msgid "Heading 2 (H2) Color"
+msgstr "Barva nadpisu 2 (H2)"
+
+#: colors/functions/functions.php:414
+msgid "Heading 3 (H3) Color"
+msgstr "Barva nadpisu 3 (H3)"
+
+#: colors/functions/functions.php:450
+msgid "Sidebar Widgets"
+msgstr "Postranní widgety"
+
+#: colors/functions/functions.php:486 colors/functions/functions.php:558
+msgid "Widget Title"
+msgstr "Název widgetů"
+
+#: colors/functions/functions.php:522
+msgid "Footer Widgets"
+msgstr "Widgety patičky"
+
+#: colors/functions/functions.php:594
+msgid "Forms"
+msgstr "Formuláře"
+
+#: colors/functions/functions.php:606
+msgid "Form Background"
+msgstr "Pozadí formuláře"
+
+#: colors/functions/functions.php:612
+msgid "Form Text"
+msgstr "Text formuláře"
+
+#: colors/functions/functions.php:618
+msgid "Form Background Focus/Hover"
+msgstr "Pozadí formuláře při výběru/přejetí myší"
+
+#: colors/functions/functions.php:624
+msgid "Form Text Focus/Hover"
+msgstr "Text formuláře při výběru/přejetí myší"
+
+#: colors/functions/functions.php:630
+msgid "Form Border"
+msgstr "Hranice formuláře"
+
+#: colors/functions/functions.php:636
+msgid "Form Border Focus/Hover"
+msgstr "Hranice formuláře při výběru/přejetí myší"
+
+#: colors/functions/functions.php:642
+msgid "Form Button"
+msgstr "Tlačítko formuláře"
+
+#: colors/functions/functions.php:648
+msgid "Form Button Focus/Hover"
+msgstr "Tlačítko formuláře při výběru/přejetí myší"
+
+#: colors/functions/functions.php:654
+msgid "Form Button Text"
+msgstr "Text tlačítka formuláře"
+
+#: colors/functions/functions.php:660
+msgid "Form Button Text Focus/Hover"
+msgstr "Text tlačítka formuláře při výběru/přejetí myší"
+
+#: colors/functions/functions.php:696
+msgid "Footer"
+msgstr "Patička"
+
+#~ msgid "Header Colors"
+#~ msgstr "Barvy hlavičky"
+
+#~ msgid "Navigation Colors"
+#~ msgstr "Barvy navigace"
+
+#~ msgid "Sub-Navigation Colors"
+#~ msgstr "Barvy pod-navigace"
+
+#~ msgid "Content Colors"
+#~ msgstr "Barvy obsahu"
+
+#~ msgid "Sidebar Widget Colors"
+#~ msgstr "Barvy widgetů postranního panelu"
+
+#~ msgid "Footer Widget Colors"
+#~ msgstr "Barvy widgetů patičky"
+
+#~ msgid "Footer Colors"
+#~ msgstr "Barvy patičky"
+
+#~ msgid "Form Colors"
+#~ msgstr "Barvy formuláře"
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+#~ msgstr ""
+#~ "Je dostupná nová verze %1$s. <a target=\"_blank\" class=\"thickbox\" href="
+#~ "\"%2$s\">Zobrazit podrobnosti o verzi %3$s</a>."
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+#~ "\">update now</a>."
+#~ msgstr ""
+#~ "Je dostupná nová verze %1$s. <a target=\"_blank\" class=\"thickbox\" href="
+#~ "\"%2$s\">Zobrazit podrobnosti o verzi %3$s</a> nebo <a href=\"%4$s"
+#~ "\">aktualizovat nyní</a>."
+
+#~ msgid "You do not have permission to install plugin updates"
+#~ msgstr "Nemáte oprávnění k instalaci aktualizací pluginů"
+
+#~ msgid "Error"
+#~ msgstr "Chyba"
+
+#~ msgid ""
+#~ "Want updates served directly to your Dashboard? Activate the email you "
+#~ "purchased your add-ons with here."
+#~ msgstr ""
+#~ "Chcete aktualizace dodávat přímo do vaší Nástěnky? Aktivujte zde email, "
+#~ "kterým jste zakoupili vaše doplňky."
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Deactivate Email"
+#~ msgstr "Deaktivovat email"
+
+#~ msgid "Activate Email"
+#~ msgstr "Aktivovat email"
+
+#~ msgid "Save Email"
+#~ msgstr "Uložit email"
+
+#~ msgid "Enable All Updates"
+#~ msgstr "Povolit všechny aktualizace"
+
+#~ msgid "Email activation failed. This email does not exist in our records."
+#~ msgstr "Aktivace emailu selhala. Tento email v našich záznamech neexistuje."
+
+#~ msgid "Email activated."
+#~ msgstr "Email aktivován."
+
+#~ msgid "Email deactivated."
+#~ msgstr "Email deaktivován."
+
+#~ msgid "License failed."
+#~ msgstr "Licence selhala."
+
+#~ msgid "License activated."
+#~ msgstr "Licence aktivována."
+
+#~ msgid "Licenses activated."
+#~ msgstr "Licence aktivovány."
+
+#~ msgid "Deactivation failed."
+#~ msgstr "Deaktivace selhala."
+
+#~ msgid "License deactivated."
+#~ msgstr "Licence deaktivována."
+
+#~ msgid "Disable Updates"
+#~ msgstr "Zakázat aktualizace"
+
+#~ msgid "Enable Updates"
+#~ msgstr "Povolit aktualizace"

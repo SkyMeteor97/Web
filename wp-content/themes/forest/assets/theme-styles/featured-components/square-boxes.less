@@ -1,0 +1,47 @@
+//square-boxes
+.featured-grid-container {
+  .fg-wrapper {
+    .fg-item-container {
+      padding: 0 5px 8px 5px;
+    }
+    .fg-item {
+      position: relative;
+      img {
+        .transform(scale(1));
+        .transition(0.4s all ease);
+      }
+      overflow: hidden;
+      &:hover {
+        .product-details {
+          opacity: 1;
+          .transform(scale(1));
+        }
+        img {
+          .transform(scale(1.2));
+          .transition(3s all ease);
+        }
+      }
+    }
+    .product-details {
+      position: absolute;
+      padding: 15px;
+      @media screen and (max-width: 991px)  {
+        padding: 5px;
+      }
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: fade(@accent, 50%);
+      color: @onaccent;
+      text-align: center;
+      opacity: 0;
+      .transform(scale(0.8));
+      .transition(0.5s all ease);
+      h3 { font-size: 14px; }
+      ins {
+        background: none;
+      }
+    }
+  }
+}
